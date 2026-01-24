@@ -1,0 +1,32 @@
+{
+  "champ_mod": {
+    "Darius": 1.00,
+    "Garen": 1.00,
+    "Malphite": 1.00,
+    "Kayn": 1.00,
+    "Jarvan IV": 1.00,
+    "Sett": 1.00,
+    "Ahri": 1.00,
+    "Akali": 1.00,
+    "Galio": 1.00,
+    "Twitch": 1.00,
+    "Ezreal": 1.00,
+    "Teemo": 1.00,
+    "Nami": 1.00,
+    "Zyra": 1.00,
+    "Seraphine": 1.00
+  },
+  "tag_mod": {
+    "engage": 1.00,
+    "wombo": 1.00,
+    "dive": 1.00,
+    "poke": 1.00,
+    "scaling": 1.00,
+    "waveclear": 1.00,
+    "frontline": 1.00,
+    "pick": 1.00,
+    "teamfight": 1.00,
+    "peel": 1.00,
+    "disengage": 1.00
+  }
+}

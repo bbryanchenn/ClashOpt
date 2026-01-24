@@ -1,0 +1,41 @@
+{
+  "weights": {
+    "comfort": 3.0,
+    "role_fit": 1.5,
+    "synergy": 2.2,
+    "combo": 1.8,
+    "wincon_fit": 2.0,
+    "draft_safety": 1.0,
+    "counter_risk": 10.0,
+    "execution_risk": 1.6,
+    "damage_profile": 1.2,
+    "patch": 1.0,
+    "flex": 0.6
+  },
+  "constraints": {
+    "must_have_any": ["engage", "pick"],
+    "must_have": ["dps"],
+    "prefer": ["waveclear"],
+    "min_mixed_damage": true
+  },
+  "wincons": {
+    "front_to_back": { "needs": ["frontline", "dps"], "wants": ["peel", "waveclear", "disengage", "scaling"] },
+    "dive":         { "needs": ["engage", "dive"], "wants": ["burst", "followup"] },
+    "poke":         { "needs": ["poke", "waveclear"], "wants": ["disengage", "siege"] },
+    "pick":         { "needs": ["pick"], "wants": ["burst", "vision"] },
+    "wombo":        { "needs": ["wombo", "engage"], "wants": ["followup", "teamfight"] },
+    "split":        { "needs": ["splitpush"], "wants": ["waveclear", "disengage"] }
+  },
+  "ban_models": {
+    "robbery_best_player": {
+      "bans": 5,
+      "best_player": "JG_PLAYER",
+      "target_best_player_bans": 2,
+      "rest_from_team_best_comfort": true
+    },
+    "one_per_role": {
+      "bans": 5,
+      "per_role": true
+    }
+  }
+}

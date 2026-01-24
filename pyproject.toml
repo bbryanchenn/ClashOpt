@@ -1,0 +1,10 @@
+[project]
+name = "clashopt"
+version = "0.1.0"
+requires-python = ">=3.10"
+dependencies = [
+  "requests"
+]
+
+[project.scripts]
+clashopt = "clashopt.cli:main"

@@ -1,0 +1,2622 @@
+{
+  "Aatrox": {
+    "tags": [
+      "dps",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 4,
+    "blind": 6,
+    "flex_roles": [
+      "top"
+    ]
+  },
+  "Ahri": {
+    "tags": [
+      "burst",
+      "dive",
+      "pick",
+      "poke",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 5,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ]
+  },
+  "Akali": {
+    "tags": [
+      "burst",
+      "dive",
+      "pick"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 7,
+    "blind": 4,
+    "flex_roles": [
+      "mid",
+      "top"
+    ]
+  },
+  "Akshan": {
+    "tags": [
+      "burst",
+      "dive",
+      "dps",
+      "pick",
+      "scaling",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "ranged",
+    "difficulty": 0,
+    "blind": 3,
+    "flex_roles": [
+      "adc"
+    ]
+  },
+  "Alistar": {
+    "tags": [
+      "engage",
+      "frontline",
+      "peel",
+      "teamfight",
+      "vision"
+    ],
+    "damage": "mixed",
+    "range": "melee",
+    "difficulty": 7,
+    "blind": 8,
+    "flex_roles": [
+      "support"
+    ]
+  },
+  "Ambessa": {
+    "tags": [
+      "burst",
+      "dive",
+      "dps",
+      "pick",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 10,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ]
+  },
+  "Amumu": {
+    "tags": [
+      "engage",
+      "frontline",
+      "peel",
+      "teamfight",
+      "vision"
+    ],
+    "damage": "mixed",
+    "range": "melee",
+    "difficulty": 3,
+    "blind": 8,
+    "flex_roles": [
+      "support"
+    ]
+  },
+  "Anivia": {
+    "tags": [
+      "poke",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 10,
+    "blind": 6,
+    "flex_roles": [
+      "mid"
+    ]
+  },
+  "Annie": {
+    "tags": [
+      "peel",
+      "poke",
+      "vision",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 6,
+    "blind": 7,
+    "flex_roles": [
+      "support"
+    ]
+  },
+  "Aphelios": {
+    "tags": [
+      "dps",
+      "scaling",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "ranged",
+    "difficulty": 10,
+    "blind": 5,
+    "flex_roles": [
+      "adc"
+    ]
+  },
+  "Ashe": {
+    "tags": [
+      "dps",
+      "peel",
+      "scaling",
+      "teamfight",
+      "vision"
+    ],
+    "damage": "ad",
+    "range": "ranged",
+    "difficulty": 4,
+    "blind": 6,
+    "flex_roles": [
+      "support"
+    ]
+  },
+  "Aurelion Sol": {
+    "tags": [
+      "poke",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 7,
+    "blind": 6,
+    "flex_roles": [
+      "mid"
+    ]
+  },
+  "Aurora": {
+    "tags": [
+      "burst",
+      "dive",
+      "pick",
+      "poke",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 5,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ]
+  },
+  "Azir": {
+    "tags": [
+      "dps",
+      "poke",
+      "scaling",
+      "teamfight",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 9,
+    "blind": 5,
+    "flex_roles": [
+      "adc"
+    ]
+  },
+  "Bard": {
+    "tags": [
+      "peel",
+      "poke",
+      "vision",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 9,
+    "blind": 7,
+    "flex_roles": [
+      "support"
+    ]
+  },
+  "Bel'Veth": {
+    "tags": [
+      "dps",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 10,
+    "blind": 6,
+    "flex_roles": [
+      "top"
+    ]
+  },
+  "Blitzcrank": {
+    "tags": [
+      "engage",
+      "frontline",
+      "peel",
+      "teamfight",
+      "vision"
+    ],
+    "damage": "mixed",
+    "range": "melee",
+    "difficulty": 4,
+    "blind": 8,
+    "flex_roles": [
+      "support"
+    ]
+  },
+  "Brand": {
+    "tags": [
+      "peel",
+      "poke",
+      "vision",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 4,
+    "blind": 7,
+    "flex_roles": [
+      "support"
+    ]
+  },
+  "Braum": {
+    "tags": [
+      "engage",
+      "frontline",
+      "peel",
+      "teamfight",
+      "vision"
+    ],
+    "damage": "mixed",
+    "range": "melee",
+    "difficulty": 3,
+    "blind": 8,
+    "flex_roles": [
+      "support"
+    ]
+  },
+  "Briar": {
+    "tags": [
+      "burst",
+      "dive",
+      "dps",
+      "pick",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 3,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ]
+  },
+  "Caitlyn": {
+    "tags": [
+      "dps",
+      "scaling",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "ranged",
+    "difficulty": 6,
+    "blind": 5,
+    "flex_roles": [
+      "adc"
+    ]
+  },
+  "Camille": {
+    "tags": [
+      "burst",
+      "dive",
+      "dps",
+      "pick",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 4,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ]
+  },
+  "Cassiopeia": {
+    "tags": [
+      "poke",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 10,
+    "blind": 6,
+    "flex_roles": [
+      "mid"
+    ]
+  },
+  "Cho'Gath": {
+    "tags": [
+      "engage",
+      "frontline",
+      "poke",
+      "teamfight",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "melee",
+    "difficulty": 5,
+    "blind": 7,
+    "flex_roles": [
+      "mid"
+    ]
+  },
+  "Corki": {
+    "tags": [
+      "dps",
+      "poke",
+      "scaling",
+      "teamfight",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 6,
+    "blind": 5,
+    "flex_roles": [
+      "adc"
+    ]
+  },
+  "Darius": {
+    "tags": [
+      "dps",
+      "engage",
+      "frontline",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 2,
+    "blind": 7,
+    "flex_roles": [
+      "top"
+    ]
+  },
+  "Diana": {
+    "tags": [
+      "burst",
+      "dive",
+      "dps",
+      "pick",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 4,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ]
+  },
+  "Draven": {
+    "tags": [
+      "dps",
+      "scaling",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "ranged",
+    "difficulty": 8,
+    "blind": 5,
+    "flex_roles": [
+      "adc"
+    ]
+  },
+  "Dr. Mundo": {
+    "tags": [
+      "dps",
+      "engage",
+      "frontline",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 5,
+    "blind": 7,
+    "flex_roles": [
+      "top"
+    ]
+  },
+  "Ekko": {
+    "tags": [
+      "burst",
+      "dive",
+      "pick",
+      "poke",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "melee",
+    "difficulty": 8,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ]
+  },
+  "Elise": {
+    "tags": [
+      "burst",
+      "dive",
+      "pick",
+      "poke",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 9,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ]
+  },
+  "Evelynn": {
+    "tags": [
+      "burst",
+      "dive",
+      "pick",
+      "poke",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "melee",
+    "difficulty": 10,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ]
+  },
+  "Ezreal": {
+    "tags": [
+      "dps",
+      "poke",
+      "scaling",
+      "siege",
+      "teamfight",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 7,
+    "blind": 8,
+    "flex_roles": [
+      "adc"
+    ]
+  },
+  "Fiddlesticks": {
+    "tags": [
+      "peel",
+      "poke",
+      "vision",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 9,
+    "blind": 7,
+    "flex_roles": [
+      "support"
+    ]
+  },
+  "Fiora": {
+    "tags": [
+      "burst",
+      "dive",
+      "dps",
+      "pick",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 3,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ]
+  },
+  "Fizz": {
+    "tags": [
+      "burst",
+      "dive",
+      "dps",
+      "pick",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 6,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ]
+  },
+  "Galio": {
+    "tags": [
+      "engage",
+      "followup",
+      "frontline",
+      "poke",
+      "teamfight",
+      "waveclear",
+      "wombo"
+    ],
+    "damage": "ap",
+    "range": "melee",
+    "difficulty": 5,
+    "blind": 6,
+    "flex_roles": [
+      "mid",
+      "support"
+    ]
+  },
+  "Gangplank": {
+    "tags": [
+      "dps",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 9,
+    "blind": 6,
+    "flex_roles": [
+      "top"
+    ]
+  },
+  "Garen": {
+    "tags": [
+      "dps",
+      "engage",
+      "frontline",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 5,
+    "blind": 7,
+    "flex_roles": [
+      "top"
+    ]
+  },
+  "Gnar": {
+    "tags": [
+      "dps",
+      "engage",
+      "frontline",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 8,
+    "blind": 7,
+    "flex_roles": [
+      "top"
+    ]
+  },
+  "Gragas": {
+    "tags": [
+      "dps",
+      "poke",
+      "teamfight",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "melee",
+    "difficulty": 5,
+    "blind": 6,
+    "flex_roles": [
+      "top",
+      "jungle",
+      "mid",
+      "support"
+    ]
+  },
+  "Graves": {
+    "tags": [
+      "dps",
+      "scaling",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "ranged",
+    "difficulty": 3,
+    "blind": 5,
+    "flex_roles": [
+      "adc"
+    ]
+  },
+  "Gwen": {
+    "tags": [
+      "dps",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 5,
+    "blind": 6,
+    "flex_roles": [
+      "top"
+    ]
+  },
+  "Hecarim": {
+    "tags": [
+      "dps",
+      "engage",
+      "frontline",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 6,
+    "blind": 7,
+    "flex_roles": [
+      "top"
+    ]
+  },
+  "Heimerdinger": {
+    "tags": [
+      "peel",
+      "poke",
+      "vision",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 8,
+    "blind": 7,
+    "flex_roles": [
+      "support"
+    ]
+  },
+  "Hwei": {
+    "tags": [
+      "peel",
+      "poke",
+      "vision",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 9,
+    "blind": 7,
+    "flex_roles": [
+      "support"
+    ]
+  },
+  "Illaoi": {
+    "tags": [
+      "dps",
+      "engage",
+      "frontline",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 4,
+    "blind": 7,
+    "flex_roles": [
+      "top"
+    ]
+  },
+  "Irelia": {
+    "tags": [
+      "burst",
+      "dive",
+      "dps",
+      "pick",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 5,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ]
+  },
+  "Ivern": {
+    "tags": [
+      "peel",
+      "poke",
+      "vision",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 7,
+    "blind": 7,
+    "flex_roles": [
+      "support"
+    ]
+  },
+  "Janna": {
+    "tags": [
+      "peel",
+      "poke",
+      "vision",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 7,
+    "blind": 7,
+    "flex_roles": [
+      "support"
+    ]
+  },
+  "Jarvan IV": {
+    "tags": [
+      "dps",
+      "engage",
+      "frontline",
+      "teamfight",
+      "wombo"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 4,
+    "blind": 7,
+    "flex_roles": [
+      "jungle"
+    ]
+  },
+  "Jax": {
+    "tags": [
+      "dps",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 5,
+    "blind": 6,
+    "flex_roles": [
+      "top"
+    ]
+  },
+  "Jayce": {
+    "tags": [
+      "dps",
+      "scaling",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 7,
+    "blind": 5,
+    "flex_roles": [
+      "top"
+    ]
+  },
+  "Jhin": {
+    "tags": [
+      "dps",
+      "poke",
+      "scaling",
+      "teamfight",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 6,
+    "blind": 5,
+    "flex_roles": [
+      "adc"
+    ]
+  },
+  "Jinx": {
+    "tags": [
+      "dps",
+      "scaling",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "ranged",
+    "difficulty": 6,
+    "blind": 5,
+    "flex_roles": [
+      "adc"
+    ]
+  },
+  "Kai'Sa": {
+    "tags": [
+      "dps",
+      "poke",
+      "scaling",
+      "teamfight",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 6,
+    "blind": 5,
+    "flex_roles": [
+      "adc"
+    ]
+  },
+  "Kalista": {
+    "tags": [
+      "dps",
+      "scaling",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "ranged",
+    "difficulty": 7,
+    "blind": 5,
+    "flex_roles": [
+      "adc"
+    ]
+  },
+  "Karma": {
+    "tags": [
+      "peel",
+      "poke",
+      "vision",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 5,
+    "blind": 7,
+    "flex_roles": [
+      "support"
+    ]
+  },
+  "Karthus": {
+    "tags": [
+      "poke",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 7,
+    "blind": 6,
+    "flex_roles": [
+      "jungle",
+      "mid"
+    ]
+  },
+  "Kassadin": {
+    "tags": [
+      "burst",
+      "dive",
+      "pick",
+      "poke",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "melee",
+    "difficulty": 8,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ]
+  },
+  "Katarina": {
+    "tags": [
+      "burst",
+      "dive",
+      "pick",
+      "poke",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "melee",
+    "difficulty": 8,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ]
+  },
+  "Kayle": {
+    "tags": [
+      "dps",
+      "poke",
+      "scaling",
+      "teamfight",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "melee",
+    "difficulty": 7,
+    "blind": 5,
+    "flex_roles": [
+      "mid"
+    ]
+  },
+  "Kayn": {
+    "tags": [
+      "burst",
+      "dive",
+      "dps",
+      "pick",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 8,
+    "blind": 4,
+    "flex_roles": [
+      "jungle"
+    ]
+  },
+  "Kennen": {
+    "tags": [
+      "poke",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 4,
+    "blind": 6,
+    "flex_roles": [
+      "mid"
+    ]
+  },
+  "Kha'Zix": {
+    "tags": [
+      "burst",
+      "dive",
+      "pick"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 6,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ]
+  },
+  "Kindred": {
+    "tags": [
+      "dps",
+      "scaling",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "ranged",
+    "difficulty": 4,
+    "blind": 5,
+    "flex_roles": [
+      "jungle",
+      "adc"
+    ]
+  },
+  "Kled": {
+    "tags": [
+      "dps",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 7,
+    "blind": 6,
+    "flex_roles": [
+      "top"
+    ]
+  },
+  "Kog'Maw": {
+    "tags": [
+      "dps",
+      "poke",
+      "scaling",
+      "teamfight",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 6,
+    "blind": 5,
+    "flex_roles": [
+      "adc"
+    ]
+  },
+  "K'Sante": {
+    "tags": [
+      "dps",
+      "engage",
+      "frontline",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 9,
+    "blind": 7,
+    "flex_roles": [
+      "top"
+    ]
+  },
+  "LeBlanc": {
+    "tags": [
+      "burst",
+      "dive",
+      "pick",
+      "poke",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 9,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ]
+  },
+  "Lee Sin": {
+    "tags": [
+      "burst",
+      "dive",
+      "dps",
+      "pick",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 6,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ]
+  },
+  "Leona": {
+    "tags": [
+      "engage",
+      "frontline",
+      "peel",
+      "teamfight",
+      "vision"
+    ],
+    "damage": "mixed",
+    "range": "melee",
+    "difficulty": 4,
+    "blind": 8,
+    "flex_roles": [
+      "support"
+    ]
+  },
+  "Lillia": {
+    "tags": [
+      "dps",
+      "poke",
+      "teamfight",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 8,
+    "blind": 6,
+    "flex_roles": [
+      "mid"
+    ]
+  },
+  "Lissandra": {
+    "tags": [
+      "poke",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 6,
+    "blind": 6,
+    "flex_roles": [
+      "mid"
+    ]
+  },
+  "Lucian": {
+    "tags": [
+      "burst",
+      "dive",
+      "dps",
+      "pick",
+      "scaling",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "ranged",
+    "difficulty": 6,
+    "blind": 3,
+    "flex_roles": [
+      "adc"
+    ]
+  },
+  "Lulu": {
+    "tags": [
+      "peel",
+      "poke",
+      "vision",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 5,
+    "blind": 7,
+    "flex_roles": [
+      "support"
+    ]
+  },
+  "Lux": {
+    "tags": [
+      "peel",
+      "poke",
+      "vision",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 5,
+    "blind": 7,
+    "flex_roles": [
+      "support"
+    ]
+  },
+  "Malphite": {
+    "tags": [
+      "engage",
+      "frontline",
+      "poke",
+      "teamfight",
+      "waveclear",
+      "wombo"
+    ],
+    "damage": "ap",
+    "range": "melee",
+    "difficulty": 2,
+    "blind": 8,
+    "flex_roles": [
+      "top"
+    ]
+  },
+  "Malzahar": {
+    "tags": [
+      "poke",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 6,
+    "blind": 6,
+    "flex_roles": [
+      "mid"
+    ]
+  },
+  "Maokai": {
+    "tags": [
+      "engage",
+      "frontline",
+      "peel",
+      "teamfight",
+      "vision"
+    ],
+    "damage": "mixed",
+    "range": "melee",
+    "difficulty": 3,
+    "blind": 8,
+    "flex_roles": [
+      "top",
+      "jungle",
+      "support"
+    ]
+  },
+  "Master Yi": {
+    "tags": [
+      "burst",
+      "dive",
+      "dps",
+      "pick",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 4,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ]
+  },
+  "Mel": {
+    "tags": [
+      "peel",
+      "poke",
+      "vision",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 5,
+    "blind": 7,
+    "flex_roles": [
+      "support"
+    ]
+  },
+  "Milio": {
+    "tags": [
+      "peel",
+      "poke",
+      "vision",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 5,
+    "blind": 7,
+    "flex_roles": [
+      "support"
+    ]
+  },
+  "Miss Fortune": {
+    "tags": [
+      "dps",
+      "poke",
+      "scaling",
+      "teamfight",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 1,
+    "blind": 5,
+    "flex_roles": [
+      "adc"
+    ]
+  },
+  "Wukong": {
+    "tags": [
+      "dps",
+      "engage",
+      "frontline",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 3,
+    "blind": 7,
+    "flex_roles": [
+      "top"
+    ]
+  },
+  "Mordekaiser": {
+    "tags": [
+      "dps",
+      "poke",
+      "teamfight",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "melee",
+    "difficulty": 4,
+    "blind": 6,
+    "flex_roles": [
+      "mid"
+    ]
+  },
+  "Morgana": {
+    "tags": [
+      "peel",
+      "poke",
+      "vision",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 1,
+    "blind": 7,
+    "flex_roles": [
+      "jungle",
+      "support"
+    ]
+  },
+  "Naafiri": {
+    "tags": [
+      "burst",
+      "dive",
+      "dps",
+      "pick",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 2,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ]
+  },
+  "Nami": {
+    "tags": [
+      "peel",
+      "poke",
+      "vision",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 5,
+    "blind": 7,
+    "flex_roles": [
+      "support"
+    ]
+  },
+  "Nasus": {
+    "tags": [
+      "dps",
+      "engage",
+      "frontline",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 6,
+    "blind": 7,
+    "flex_roles": [
+      "top"
+    ]
+  },
+  "Nautilus": {
+    "tags": [
+      "engage",
+      "frontline",
+      "peel",
+      "teamfight",
+      "vision"
+    ],
+    "damage": "mixed",
+    "range": "melee",
+    "difficulty": 6,
+    "blind": 8,
+    "flex_roles": [
+      "support"
+    ]
+  },
+  "Neeko": {
+    "tags": [
+      "peel",
+      "poke",
+      "vision",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 5,
+    "blind": 7,
+    "flex_roles": [
+      "support"
+    ]
+  },
+  "Nidalee": {
+    "tags": [
+      "burst",
+      "dive",
+      "pick",
+      "poke",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 8,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ]
+  },
+  "Nilah": {
+    "tags": [
+      "burst",
+      "dive",
+      "dps",
+      "pick",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "ranged",
+    "difficulty": 10,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ]
+  },
+  "Nocturne": {
+    "tags": [
+      "burst",
+      "dive",
+      "dps",
+      "pick",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 4,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ]
+  },
+  "Nunu & Willump": {
+    "tags": [
+      "engage",
+      "frontline",
+      "poke",
+      "teamfight",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "melee",
+    "difficulty": 4,
+    "blind": 7,
+    "flex_roles": [
+      "mid"
+    ]
+  },
+  "Olaf": {
+    "tags": [
+      "dps",
+      "engage",
+      "frontline",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 3,
+    "blind": 7,
+    "flex_roles": [
+      "top"
+    ]
+  },
+  "Orianna": {
+    "tags": [
+      "peel",
+      "poke",
+      "vision",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 7,
+    "blind": 7,
+    "flex_roles": [
+      "support"
+    ]
+  },
+  "Ornn": {
+    "tags": [
+      "engage",
+      "frontline",
+      "teamfight"
+    ],
+    "damage": "mixed",
+    "range": "melee",
+    "difficulty": 5,
+    "blind": 7,
+    "flex_roles": [
+      "top"
+    ]
+  },
+  "Pantheon": {
+    "tags": [
+      "burst",
+      "dive",
+      "dps",
+      "pick",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 4,
+    "blind": 4,
+    "flex_roles": [
+      "top",
+      "jungle",
+      "mid",
+      "support"
+    ]
+  },
+  "Poppy": {
+    "tags": [
+      "dps",
+      "engage",
+      "frontline",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 6,
+    "blind": 7,
+    "flex_roles": [
+      "top"
+    ]
+  },
+  "Pyke": {
+    "tags": [
+      "burst",
+      "dive",
+      "peel",
+      "pick",
+      "vision"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 7,
+    "blind": 5,
+    "flex_roles": [
+      "support"
+    ]
+  },
+  "Qiyana": {
+    "tags": [
+      "burst",
+      "dive",
+      "pick"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 8,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ]
+  },
+  "Quinn": {
+    "tags": [
+      "burst",
+      "dive",
+      "dps",
+      "pick",
+      "scaling",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "ranged",
+    "difficulty": 5,
+    "blind": 3,
+    "flex_roles": [
+      "adc"
+    ]
+  },
+  "Rakan": {
+    "tags": [
+      "peel",
+      "vision"
+    ],
+    "damage": "mixed",
+    "range": "ranged",
+    "difficulty": 5,
+    "blind": 7,
+    "flex_roles": [
+      "support"
+    ]
+  },
+  "Rammus": {
+    "tags": [
+      "engage",
+      "frontline",
+      "teamfight"
+    ],
+    "damage": "mixed",
+    "range": "melee",
+    "difficulty": 5,
+    "blind": 7,
+    "flex_roles": [
+      "top"
+    ]
+  },
+  "Rek'Sai": {
+    "tags": [
+      "dps",
+      "engage",
+      "frontline",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 3,
+    "blind": 7,
+    "flex_roles": [
+      "top"
+    ]
+  },
+  "Rell": {
+    "tags": [
+      "engage",
+      "frontline",
+      "peel",
+      "teamfight",
+      "vision"
+    ],
+    "damage": "mixed",
+    "range": "melee",
+    "difficulty": 0,
+    "blind": 8,
+    "flex_roles": [
+      "support"
+    ]
+  },
+  "Renata Glasc": {
+    "tags": [
+      "peel",
+      "poke",
+      "vision",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 8,
+    "blind": 7,
+    "flex_roles": [
+      "support"
+    ]
+  },
+  "Renekton": {
+    "tags": [
+      "dps",
+      "engage",
+      "frontline",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 3,
+    "blind": 7,
+    "flex_roles": [
+      "top"
+    ]
+  },
+  "Rengar": {
+    "tags": [
+      "burst",
+      "dive",
+      "dps",
+      "pick",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 8,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ]
+  },
+  "Riven": {
+    "tags": [
+      "burst",
+      "dive",
+      "dps",
+      "pick",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 8,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ]
+  },
+  "Rumble": {
+    "tags": [
+      "dps",
+      "poke",
+      "teamfight",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "melee",
+    "difficulty": 10,
+    "blind": 6,
+    "flex_roles": [
+      "mid"
+    ]
+  },
+  "Ryze": {
+    "tags": [
+      "poke",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 7,
+    "blind": 6,
+    "flex_roles": [
+      "mid"
+    ]
+  },
+  "Samira": {
+    "tags": [
+      "burst",
+      "dive",
+      "dps",
+      "pick",
+      "scaling",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "ranged",
+    "difficulty": 6,
+    "blind": 3,
+    "flex_roles": [
+      "adc"
+    ]
+  },
+  "Sejuani": {
+    "tags": [
+      "engage",
+      "frontline",
+      "teamfight"
+    ],
+    "damage": "mixed",
+    "range": "melee",
+    "difficulty": 4,
+    "blind": 7,
+    "flex_roles": [
+      "top"
+    ]
+  },
+  "Senna": {
+    "tags": [
+      "dps",
+      "peel",
+      "scaling",
+      "teamfight",
+      "vision"
+    ],
+    "damage": "ad",
+    "range": "ranged",
+    "difficulty": 7,
+    "blind": 6,
+    "flex_roles": [
+      "support"
+    ]
+  },
+  "Seraphine": {
+    "tags": [
+      "peel",
+      "poke",
+      "vision",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 0,
+    "blind": 7,
+    "flex_roles": [
+      "support",
+      "mid"
+    ]
+  },
+  "Sett": {
+    "tags": [
+      "dps",
+      "engage",
+      "frontline",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 2,
+    "blind": 7,
+    "flex_roles": [
+      "top",
+      "jungle",
+      "support"
+    ]
+  },
+  "Shaco": {
+    "tags": [
+      "burst",
+      "dive",
+      "pick"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 9,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ]
+  },
+  "Shen": {
+    "tags": [
+      "engage",
+      "frontline",
+      "teamfight"
+    ],
+    "damage": "mixed",
+    "range": "melee",
+    "difficulty": 4,
+    "blind": 7,
+    "flex_roles": [
+      "top"
+    ]
+  },
+  "Shyvana": {
+    "tags": [
+      "dps",
+      "poke",
+      "teamfight",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "melee",
+    "difficulty": 4,
+    "blind": 6,
+    "flex_roles": [
+      "mid"
+    ]
+  },
+  "Singed": {
+    "tags": [
+      "engage",
+      "frontline",
+      "poke",
+      "teamfight",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "melee",
+    "difficulty": 5,
+    "blind": 7,
+    "flex_roles": [
+      "mid"
+    ]
+  },
+  "Sion": {
+    "tags": [
+      "dps",
+      "engage",
+      "frontline",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 5,
+    "blind": 7,
+    "flex_roles": [
+      "top"
+    ]
+  },
+  "Sivir": {
+    "tags": [
+      "dps",
+      "scaling",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "ranged",
+    "difficulty": 4,
+    "blind": 5,
+    "flex_roles": [
+      "adc"
+    ]
+  },
+  "Skarner": {
+    "tags": [
+      "dps",
+      "engage",
+      "frontline",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 5,
+    "blind": 7,
+    "flex_roles": [
+      "top"
+    ]
+  },
+  "Smolder": {
+    "tags": [
+      "dps",
+      "poke",
+      "scaling",
+      "teamfight",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 6,
+    "blind": 5,
+    "flex_roles": [
+      "adc"
+    ]
+  },
+  "Sona": {
+    "tags": [
+      "peel",
+      "poke",
+      "vision",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 4,
+    "blind": 7,
+    "flex_roles": [
+      "support"
+    ]
+  },
+  "Soraka": {
+    "tags": [
+      "peel",
+      "poke",
+      "vision",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 3,
+    "blind": 7,
+    "flex_roles": [
+      "support"
+    ]
+  },
+  "Swain": {
+    "tags": [
+      "peel",
+      "poke",
+      "vision",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 8,
+    "blind": 7,
+    "flex_roles": [
+      "mid",
+      "adc",
+      "support"
+    ]
+  },
+  "Sylas": {
+    "tags": [
+      "burst",
+      "dive",
+      "pick",
+      "poke",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "melee",
+    "difficulty": 5,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ]
+  },
+  "Syndra": {
+    "tags": [
+      "poke",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 8,
+    "blind": 6,
+    "flex_roles": [
+      "mid"
+    ]
+  },
+  "Tahm Kench": {
+    "tags": [
+      "engage",
+      "frontline",
+      "peel",
+      "teamfight",
+      "vision"
+    ],
+    "damage": "mixed",
+    "range": "melee",
+    "difficulty": 5,
+    "blind": 8,
+    "flex_roles": [
+      "support"
+    ]
+  },
+  "Taliyah": {
+    "tags": [
+      "peel",
+      "poke",
+      "vision",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 5,
+    "blind": 7,
+    "flex_roles": [
+      "jungle",
+      "mid"
+    ]
+  },
+  "Talon": {
+    "tags": [
+      "burst",
+      "dive",
+      "pick"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 7,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ]
+  },
+  "Taric": {
+    "tags": [
+      "engage",
+      "frontline",
+      "peel",
+      "teamfight",
+      "vision"
+    ],
+    "damage": "mixed",
+    "range": "melee",
+    "difficulty": 3,
+    "blind": 8,
+    "flex_roles": [
+      "support"
+    ]
+  },
+  "Teemo": {
+    "tags": [
+      "dps",
+      "poke",
+      "scaling",
+      "teamfight",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 6,
+    "blind": 5,
+    "flex_roles": [
+      "top",
+      "adc"
+    ]
+  },
+  "Thresh": {
+    "tags": [
+      "engage",
+      "frontline",
+      "peel",
+      "teamfight",
+      "vision"
+    ],
+    "damage": "mixed",
+    "range": "ranged",
+    "difficulty": 7,
+    "blind": 8,
+    "flex_roles": [
+      "support"
+    ]
+  },
+  "Tristana": {
+    "tags": [
+      "burst",
+      "dive",
+      "dps",
+      "pick",
+      "scaling",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "ranged",
+    "difficulty": 4,
+    "blind": 3,
+    "flex_roles": [
+      "adc"
+    ]
+  },
+  "Trundle": {
+    "tags": [
+      "dps",
+      "engage",
+      "frontline",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 5,
+    "blind": 7,
+    "flex_roles": [
+      "top"
+    ]
+  },
+  "Tryndamere": {
+    "tags": [
+      "burst",
+      "dive",
+      "dps",
+      "pick",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 5,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ]
+  },
+  "Twisted Fate": {
+    "tags": [
+      "dps",
+      "poke",
+      "scaling",
+      "teamfight",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 9,
+    "blind": 5,
+    "flex_roles": [
+      "adc"
+    ]
+  },
+  "Twitch": {
+    "tags": [
+      "burst",
+      "dive",
+      "dps",
+      "pick",
+      "scaling",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "ranged",
+    "difficulty": 6,
+    "blind": 5,
+    "flex_roles": [
+      "adc"
+    ]
+  },
+  "Udyr": {
+    "tags": [
+      "dps",
+      "engage",
+      "frontline",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 7,
+    "blind": 7,
+    "flex_roles": [
+      "top"
+    ]
+  },
+  "Urgot": {
+    "tags": [
+      "dps",
+      "engage",
+      "frontline",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "ranged",
+    "difficulty": 8,
+    "blind": 7,
+    "flex_roles": [
+      "jungle"
+    ]
+  },
+  "Varus": {
+    "tags": [
+      "dps",
+      "poke",
+      "scaling",
+      "teamfight",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 2,
+    "blind": 5,
+    "flex_roles": [
+      "adc"
+    ]
+  },
+  "Vayne": {
+    "tags": [
+      "burst",
+      "dive",
+      "dps",
+      "pick",
+      "scaling",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "ranged",
+    "difficulty": 8,
+    "blind": 3,
+    "flex_roles": [
+      "top",
+      "adc"
+    ]
+  },
+  "Veigar": {
+    "tags": [
+      "poke",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 7,
+    "blind": 6,
+    "flex_roles": [
+      "mid"
+    ]
+  },
+  "Vel'Koz": {
+    "tags": [
+      "peel",
+      "poke",
+      "vision",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 8,
+    "blind": 7,
+    "flex_roles": [
+      "support"
+    ]
+  },
+  "Vex": {
+    "tags": [
+      "poke",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 0,
+    "blind": 6,
+    "flex_roles": [
+      "mid"
+    ]
+  },
+  "Vi": {
+    "tags": [
+      "burst",
+      "dive",
+      "dps",
+      "pick",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 4,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ]
+  },
+  "Viego": {
+    "tags": [
+      "burst",
+      "dive",
+      "dps",
+      "pick",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 5,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ]
+  },
+  "Viktor": {
+    "tags": [
+      "poke",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 9,
+    "blind": 6,
+    "flex_roles": [
+      "mid"
+    ]
+  },
+  "Vladimir": {
+    "tags": [
+      "dps",
+      "poke",
+      "teamfight",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 7,
+    "blind": 6,
+    "flex_roles": [
+      "mid"
+    ]
+  },
+  "Volibear": {
+    "tags": [
+      "dps",
+      "engage",
+      "frontline",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 3,
+    "blind": 7,
+    "flex_roles": [
+      "top"
+    ]
+  },
+  "Warwick": {
+    "tags": [
+      "dps",
+      "engage",
+      "frontline",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 3,
+    "blind": 7,
+    "flex_roles": [
+      "top"
+    ]
+  },
+  "Xayah": {
+    "tags": [
+      "dps",
+      "scaling",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "ranged",
+    "difficulty": 5,
+    "blind": 5,
+    "flex_roles": [
+      "adc"
+    ]
+  },
+  "Xerath": {
+    "tags": [
+      "peel",
+      "poke",
+      "vision",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 8,
+    "blind": 7,
+    "flex_roles": [
+      "support"
+    ]
+  },
+  "Xin Zhao": {
+    "tags": [
+      "dps",
+      "engage",
+      "frontline",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 2,
+    "blind": 7,
+    "flex_roles": [
+      "top"
+    ]
+  },
+  "Yasuo": {
+    "tags": [
+      "burst",
+      "dive",
+      "dps",
+      "pick",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 10,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ]
+  },
+  "Yone": {
+    "tags": [
+      "burst",
+      "dive",
+      "dps",
+      "pick",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 8,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ]
+  },
+  "Yorick": {
+    "tags": [
+      "dps",
+      "engage",
+      "frontline",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 6,
+    "blind": 7,
+    "flex_roles": [
+      "top"
+    ]
+  },
+  "Yunara": {
+    "tags": [
+      "dps",
+      "scaling",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "ranged",
+    "difficulty": 4,
+    "blind": 5,
+    "flex_roles": [
+      "adc"
+    ]
+  },
+  "Yuumi": {
+    "tags": [
+      "peel",
+      "poke",
+      "vision",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 2,
+    "blind": 7,
+    "flex_roles": [
+      "support"
+    ]
+  },
+  "Zaahen": {
+    "tags": [
+      "burst",
+      "dive",
+      "dps",
+      "pick",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 2,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ]
+  },
+  "Zac": {
+    "tags": [
+      "dps",
+      "engage",
+      "frontline",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 8,
+    "blind": 7,
+    "flex_roles": [
+      "top"
+    ]
+  },
+  "Zed": {
+    "tags": [
+      "burst",
+      "dive",
+      "pick"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 7,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ]
+  },
+  "Zeri": {
+    "tags": [
+      "dps",
+      "scaling",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "ranged",
+    "difficulty": 6,
+    "blind": 5,
+    "flex_roles": [
+      "adc"
+    ]
+  },
+  "Ziggs": {
+    "tags": [
+      "poke",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 4,
+    "blind": 6,
+    "flex_roles": [
+      "mid",
+      "adc"
+    ]
+  },
+  "Zilean": {
+    "tags": [
+      "peel",
+      "poke",
+      "vision",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 6,
+    "blind": 7,
+    "flex_roles": [
+      "support"
+    ]
+  },
+  "Zoe": {
+    "tags": [
+      "poke",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 5,
+    "blind": 6,
+    "flex_roles": [
+      "mid"
+    ]
+  },
+  "Zyra": {
+    "tags": [
+      "peel",
+      "poke",
+      "vision",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 7,
+    "blind": 7,
+    "flex_roles": [
+      "support"
+    ]
+  }
+}

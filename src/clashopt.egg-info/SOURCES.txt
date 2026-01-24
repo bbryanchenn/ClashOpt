@@ -1,0 +1,17 @@
+pyproject.toml
+src/clashopt/__init__.py
+src/clashopt/bans.py
+src/clashopt/cli.py
+src/clashopt/io.py
+src/clashopt/model.py
+src/clashopt/names.py
+src/clashopt/report.py
+src/clashopt/score.py
+src/clashopt/search.py
+src/clashopt/validate.py
+src/clashopt.egg-info/PKG-INFO
+src/clashopt.egg-info/SOURCES.txt
+src/clashopt.egg-info/dependency_links.txt
+src/clashopt.egg-info/entry_points.txt
+src/clashopt.egg-info/requires.txt
+src/clashopt.egg-info/top_level.txt
