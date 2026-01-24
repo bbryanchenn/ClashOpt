@@ -4,45 +4,45 @@
       "name": "Alex",
       "role": "top",
       "pool": [
-        { "champ": "Darius", "comfort": 9, "role_fit": 9 },
-        { "champ": "Garen", "comfort": 8, "role_fit": 8 },
-        { "champ": "Malphite", "comfort": 7, "role_fit": 7 }
+        { "champ": "Rumble", "comfort": 9, "role_fit": 9 },
+        { "champ": "Jayce", "comfort": 8, "role_fit": 8 },
+        { "champ": "Jax", "comfort": 8, "role_fit": 7 }
       ]
     },
     {
       "name": "Jack",
       "role": "jungle",
       "pool": [
-        { "champ": "Diana", "comfort": 9, "role_fit": 9 },
-        { "champ": "Jarvan IV", "comfort": 7, "role_fit": 8 },
-        { "champ": "Zac", "comfort": 6, "role_fit": 7 }
+        { "champ": "Xin zhao", "comfort": 9, "role_fit": 9 },
+        { "champ": "Wukong", "comfort": 8, "role_fit": 8 },
+        { "champ": "jarvan IV", "comfort": 8, "role_fit": 7 }
       ]
     },
     {
       "name": "Roman",
       "role": "mid",
       "pool": [
-        { "champ": "Ahri", "comfort": 9, "role_fit": 9 },
-        { "champ": "Akali", "comfort": 7, "role_fit": 8 },
-        { "champ": "Galio", "comfort": 6, "role_fit": 7 }
+        { "champ": "viktor", "comfort": 9, "role_fit": 9 },
+        { "champ": "aurora", "comfort": 9, "role_fit": 8 },
+        { "champ": "galio", "comfort": 9, "role_fit": 7 }
       ]
     },
     {
       "name": "lyfe",
       "role": "adc",
       "pool": [
-        { "champ": "Aphelios", "comfort": 9, "role_fit": 9 },
-        { "champ": "Samira", "comfort": 9, "role_fit": 8 },
-        { "champ": "Jinx", "comfort": 7, "role_fit": 7 }
+        { "champ": "jhin", "comfort": 9, "role_fit": 9 },
+        { "champ": "caitlyn", "comfort": 9, "role_fit": 8 },
+        { "champ": "varus", "comfort": 8, "role_fit": 7 }
       ]
     },
     {
       "name": "naoemi",
       "role": "support",
       "pool": [
-        { "champ": "Nami", "comfort": 9, "role_fit": 9 },
-        { "champ": "Zyra", "comfort": 8, "role_fit": 8 },
-        { "champ": "Seraphine", "comfort": 6, "role_fit": 7 }
+        { "champ": "poppy", "comfort": 9, "role_fit": 9 },
+        { "champ": "elise", "comfort": 8, "role_fit": 8 },
+        { "champ": "lulu", "comfort": 8, "role_fit": 7 }
       ]
     }
   ]

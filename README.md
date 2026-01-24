@@ -40,18 +40,40 @@ GUILD_ID=
 RIOT_API_KEY=
 ```
 
-# CLI Usage
+# CLI Usage (How to use ClashOpt)
 
-To use the standalone CLI version of ClashOpt, navigate to the `src/clashopt/` directory and run the main script with the desired options. For example:
+You always run:
 ```
-run best
+clashopt <command> [flags]
 ```
 
-Supported flags:
-- best
-- bans
-- resilient
-- pivot
+## Available Commands
+
+- `best`: Finds the best 5-man comp from your team pools using your scoring model.
+> Useful flags: 
+> `--enemy`: Adds enemy champs into the calculation (counters)
+> `--topk`: How many comps it generates internally before ranking
+> `--show`: How many of the best comps to show
+
+- `bans`: Simulates bans based on a ban model (like “they’ll ban your best champs”).
+> Useful flags:
+> `--model`: Which ban model to use (best, robbery_best_player, one_per_role)
+> `--seed`: Seed for random number generator (for reproducibility)
+
+- `resilient`: Finds comps that are harder to ban out
+> Useful flags:
+> `--scenarios`: Number of random ban scenarios to simulate
+> `--model`: Which ban model to use (best, robbery_best_player, one_per_role)
+> `--seed`: Seed for random number generator (for reproducibility)
+
+- `pivot`: This is the “draft survival” command: gives you a good base comp that simulates bans and shows the best pivot picks after bans hit
+> Useful flags:
+> `--model`: Which ban model to use (best, robbery_best_player)
+> `--seed`: Seed for random number generator (for reproducibility)
+> `--enemy`: Adds enemy champs into the calculation (counters)
+
+### Global Flags
+- `--data`: Path to the data directory (default: ./data, directory to /data )
 
 # Discord Bot Usage
 
