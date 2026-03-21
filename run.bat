@@ -1,4 +1,2 @@
 @echo off
-cd /d "%~dp0"
-call .\.venv\Scripts\activate
-clashopt %*
+python -m clashopt.cli %*

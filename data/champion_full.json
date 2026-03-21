@@ -1,0 +1,4913 @@
+{
+  "Aatrox": {
+    "tags": [
+      "dps",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 4,
+    "blind": 6,
+    "flex_roles": [
+      "top"
+    ],
+    "synergy": {
+      "Ornn": 0.57,
+      "Udyr": 0.584,
+      "Ivern": 0.5567,
+      "Talon": 0.5544,
+      "Trundle": 0.6842,
+      "Sejuani": 0.8182,
+      "Naafiri": 0.75,
+      "Syndra": 0.56
+    },
+    "counters": {
+      "Camille": 0.583,
+      "Rammus": 0.67,
+      "Evelynn": 0.59,
+      "Kindred": 0.61
+    },
+    "combos": []
+  },
+  "Ahri": {
+    "tags": [
+      "burst",
+      "dive",
+      "pick",
+      "poke",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 5,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ],
+    "synergy": {
+      "Kindred": 0.61,
+      "Zac": 0.57,
+      "Karthus": 0.57
+    },
+    "counters": {},
+    "combos": []
+  },
+  "Akali": {
+    "tags": [
+      "burst",
+      "dive",
+      "pick"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 7,
+    "blind": 4,
+    "flex_roles": [
+      "mid",
+      "top"
+    ],
+    "synergy": {
+      "Wukong": 0.5926,
+      "Rek'Sai": 0.5922,
+      "Sejuani": 0.5814
+    },
+    "counters": {},
+    "combos": []
+  },
+  "Akshan": {
+    "tags": [
+      "burst",
+      "dive",
+      "dps",
+      "pick",
+      "scaling",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "ranged",
+    "difficulty": 0,
+    "blind": 3,
+    "flex_roles": [
+      "adc"
+    ],
+    "synergy": {
+      "Zac": 0.61,
+      "Warwick": 0.61,
+      "Fiddlesticks": 0.61
+    },
+    "counters": {
+      "Aurora": 0.6102,
+      "Ahri": 0.56,
+      "Zed": 0.6,
+      "Xerath": 0.59,
+      "Hwei": 0.6
+    },
+    "combos": []
+  },
+  "Alistar": {
+    "tags": [
+      "engage",
+      "frontline",
+      "peel",
+      "teamfight",
+      "vision"
+    ],
+    "damage": "mixed",
+    "range": "melee",
+    "difficulty": 7,
+    "blind": 8,
+    "flex_roles": [
+      "support"
+    ],
+    "synergy": {
+      "Kindred": 0.61,
+      "Twitch": 0.56,
+      "Veigar": 0.55,
+      "Swain": 0.53
+    },
+    "counters": {},
+    "combos": []
+  },
+  "Ambessa": {
+    "tags": [
+      "burst",
+      "dive",
+      "dps",
+      "pick",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 10,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ],
+    "synergy": {
+      "Sett": 0.5882,
+      "Fiddlesticks": 0.5765,
+      "Kindred": 0.5463,
+      "Udyr": 0.5443
+    },
+    "counters": {
+      "Shyvana": 0.71
+    },
+    "combos": []
+  },
+  "Amumu": {
+    "tags": [
+      "engage",
+      "frontline",
+      "peel",
+      "teamfight",
+      "vision"
+    ],
+    "damage": "mixed",
+    "range": "melee",
+    "difficulty": 3,
+    "blind": 8,
+    "flex_roles": [
+      "support"
+    ],
+    "synergy": {
+      "Garen": 0.6071,
+      "Jax": 0.5417,
+      "K'Sante": 0.6,
+      "Yone": 0.5591,
+      "Senna": 0.58,
+      "Morgana": 0.58,
+      "Milio": 0.57,
+      "Aurelion Sol": 0.6,
+      "Xerath": 0.59,
+      "Tristana": 0.69
+    },
+    "counters": {
+      "Kha'Zix": 0.54,
+      "Lee Sin": 0.57,
+      "Master Yi": 0.58,
+      "Bel'Veth": 0.59,
+      "Nidalee": 0.59,
+      "Briar": 0.65
+    },
+    "combos": []
+  },
+  "Anivia": {
+    "tags": [
+      "poke",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 10,
+    "blind": 6,
+    "flex_roles": [
+      "mid"
+    ],
+    "synergy": {
+      "Talon": 0.88,
+      "Nidalee": 0.82,
+      "Graves": 0.76
+    },
+    "counters": {
+      "Galio": 0.56,
+      "Vex": 0.58,
+      "Fizz": 0.55
+    },
+    "combos": []
+  },
+  "Annie": {
+    "tags": [
+      "peel",
+      "poke",
+      "vision",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 6,
+    "blind": 7,
+    "flex_roles": [
+      "support"
+    ],
+    "synergy": {
+      "Bel'Veth": 0.68,
+      "Rek'Sai": 0.68,
+      "Elise": 0.65
+    },
+    "counters": {
+      "Katarina": 0.56,
+      "LeBlanc": 0.57
+    },
+    "combos": []
+  },
+  "Aphelios": {
+    "tags": [
+      "dps",
+      "scaling",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "ranged",
+    "difficulty": 10,
+    "blind": 5,
+    "flex_roles": [
+      "adc"
+    ],
+    "synergy": {
+      "Seraphine": 0.7,
+      "Zilean": 0.55,
+      "Pyke": 0.54,
+      "Braum": 0.53
+    },
+    "counters": {
+      "Vayne": 0.56,
+      "Kai'Sa": 0.54
+    },
+    "combos": []
+  },
+  "Ashe": {
+    "tags": [
+      "dps",
+      "peel",
+      "scaling",
+      "teamfight",
+      "vision"
+    ],
+    "damage": "ad",
+    "range": "ranged",
+    "difficulty": 4,
+    "blind": 6,
+    "flex_roles": [
+      "support"
+    ],
+    "synergy": {
+      "Soraka": 0.55,
+      "Zilean": 0.55,
+      "Tahm Kench": 0.55
+    },
+    "counters": {
+      "Zyra": 0.59,
+      "Ziggs": 0.53,
+      "Tristana": 0.55
+    },
+    "combos": []
+  },
+  "Aurelion Sol": {
+    "tags": [
+      "poke",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 7,
+    "blind": 6,
+    "flex_roles": [
+      "mid"
+    ],
+    "synergy": {
+      "Elise": 0.61,
+      "Volibear": 0.61,
+      "Amumu": 0.6
+    },
+    "counters": {
+      "Lissandra": 0.61,
+      "Orianna": 0.61,
+      "Annie": 0.75,
+      "Yasuo": 0.61
+    },
+    "combos": []
+  },
+  "Aurora": {
+    "tags": [
+      "burst",
+      "dive",
+      "pick",
+      "poke",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 5,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ],
+    "synergy": {
+      "Nidalee": 0.68,
+      "Evelynn": 0.67,
+      "Nunu & Willump": 0.65
+    },
+    "counters": {},
+    "combos": []
+  },
+  "Azir": {
+    "tags": [
+      "dps",
+      "poke",
+      "scaling",
+      "teamfight",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 9,
+    "blind": 5,
+    "flex_roles": [
+      "adc"
+    ],
+    "synergy": {
+      "Skarner": 0.69,
+      "Evelynn": 0.58,
+      "Lillia": 0.57
+    },
+    "counters": {},
+    "combos": []
+  },
+  "Bard": {
+    "tags": [
+      "peel",
+      "poke",
+      "vision",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 9,
+    "blind": 7,
+    "flex_roles": [
+      "support"
+    ],
+    "synergy": {
+      "Veigar": 0.64,
+      "Swain": 0.57,
+      "Ziggs": 0.53
+    },
+    "counters": {
+      "Seraphine": 0.54,
+      "Braum": 0.52
+    },
+    "combos": []
+  },
+  "Bel'Veth": {
+    "tags": [
+      "dps",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 10,
+    "blind": 6,
+    "flex_roles": [
+      "top"
+    ],
+    "synergy": {
+      "Pantheon": 0.74,
+      "Volibear": 0.597,
+      "Renekton": 0.567,
+      "Malphite": 0.5368,
+      "Tahm Kench": 0.625,
+      "Heimerdinger": 0.92,
+      "Zyra": 0.63,
+      "Pyke": 0.62,
+      "Taric": 0.62,
+      "Veigar": 0.59,
+      "Xerath": 0.63,
+      "Lissandra": 0.61,
+      "Annie": 0.68
+    },
+    "counters": {},
+    "combos": []
+  },
+  "Blitzcrank": {
+    "tags": [
+      "engage",
+      "frontline",
+      "peel",
+      "teamfight",
+      "vision"
+    ],
+    "damage": "mixed",
+    "range": "melee",
+    "difficulty": 4,
+    "blind": 8,
+    "flex_roles": [
+      "support"
+    ],
+    "synergy": {
+      "Yunara": 0.51,
+      "Yasuo": 0.54,
+      "Nilah": 0.54,
+      "Swain": 0.53
+    },
+    "counters": {
+      "Lux": 0.62,
+      "Soraka": 0.55,
+      "Senna": 0.59,
+      "Milio": 0.55
+    },
+    "combos": []
+  },
+  "Brand": {
+    "tags": [
+      "peel",
+      "poke",
+      "vision",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 4,
+    "blind": 7,
+    "flex_roles": [
+      "support"
+    ],
+    "synergy": {
+      "Rengar": 0.67,
+      "Fiddlesticks": 0.61,
+      "Kayn": 0.57,
+      "Karthus": 0.78,
+      "Rammus": 0.67,
+      "Kog'Maw": 0.65,
+      "Jhin": 0.55,
+      "Nami": 0.57
+    },
+    "counters": {
+      "Akali": 0.57,
+      "Nami": 0.52,
+      "Zyra": 0.57
+    },
+    "combos": []
+  },
+  "Braum": {
+    "tags": [
+      "engage",
+      "frontline",
+      "peel",
+      "teamfight",
+      "vision"
+    ],
+    "damage": "mixed",
+    "range": "melee",
+    "difficulty": 3,
+    "blind": 8,
+    "flex_roles": [
+      "support"
+    ],
+    "synergy": {
+      "Ekko": 0.56,
+      "Jarvan IV": 0.56,
+      "Nocturne": 0.56,
+      "Talon": 0.55,
+      "Taliyah": 0.55,
+      "Viego": 0.52,
+      "Sivir": 0.55,
+      "Jinx": 0.57,
+      "Twitch": 0.56,
+      "Miss Fortune": 0.55,
+      "Kog'Maw": 0.63,
+      "Lucian": 0.52,
+      "Caitlyn": 0.53,
+      "Aphelios": 0.53,
+      "Kai'Sa": 0.52,
+      "Yunara": 0.54,
+      "Nilah": 0.59
+    },
+    "counters": {
+      "Brand": 0.58,
+      "Nami": 0.52,
+      "Thresh": 0.53,
+      "Leona": 0.54,
+      "Milio": 0.53,
+      "Nautilus": 0.56,
+      "Yuumi": 0.62
+    },
+    "combos": []
+  },
+  "Briar": {
+    "tags": [
+      "burst",
+      "dive",
+      "dps",
+      "pick",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 3,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ],
+    "synergy": {
+      "Vladimir": 0.6118,
+      "Mordekaiser": 0.5495,
+      "Sejuani": 0.6471,
+      "Gwen": 0.62,
+      "Renata Glasc": 0.63,
+      "Tahm Kench": 0.61,
+      "Zyra": 0.6
+    },
+    "counters": {
+      "Jarvan IV": 0.55,
+      "Diana": 0.53,
+      "Bel'Veth": 0.62,
+      "Nidalee": 0.6,
+      "Graves": 0.56,
+      "Hecarim": 0.6
+    },
+    "combos": []
+  },
+  "Caitlyn": {
+    "tags": [
+      "dps",
+      "scaling",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "ranged",
+    "difficulty": 6,
+    "blind": 5,
+    "flex_roles": [
+      "adc"
+    ],
+    "synergy": {
+      "Braum": 0.53,
+      "Zyra": 0.53,
+      "Thresh": 0.52
+    },
+    "counters": {
+      "Zeri": 0.55,
+      "Yunara": 0.56
+    },
+    "combos": []
+  },
+  "Camille": {
+    "tags": [
+      "burst",
+      "dive",
+      "dps",
+      "pick",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 4,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ],
+    "synergy": {
+      "Udyr": 0.7018,
+      "Rammus": 0.6557,
+      "Jax": 0.6301
+    },
+    "counters": {},
+    "combos": []
+  },
+  "Cassiopeia": {
+    "tags": [
+      "poke",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 10,
+    "blind": 6,
+    "flex_roles": [
+      "mid"
+    ],
+    "synergy": {
+      "Kindred": 0.85,
+      "Nidalee": 0.8,
+      "Sejuani": 0.74
+    },
+    "counters": {
+      "Olaf": 0.6098,
+      "Ornn": 0.5593,
+      "Heimerdinger": 0.8,
+      "Vex": 0.59,
+      "Zoe": 0.59,
+      "Lissandra": 0.66
+    },
+    "combos": []
+  },
+  "Cho'Gath": {
+    "tags": [
+      "engage",
+      "frontline",
+      "poke",
+      "teamfight",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "melee",
+    "difficulty": 5,
+    "blind": 7,
+    "flex_roles": [
+      "mid"
+    ],
+    "synergy": {
+      "Shyvana": 0.6667,
+      "Dr. Mundo": 0.5862,
+      "Graves": 0.5817
+    },
+    "counters": {
+      "Kennen": 0.5825
+    },
+    "combos": []
+  },
+  "Corki": {
+    "tags": [
+      "dps",
+      "poke",
+      "scaling",
+      "teamfight",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 6,
+    "blind": 5,
+    "flex_roles": [
+      "adc"
+    ],
+    "synergy": {
+      "Zyra": 0.77,
+      "Ivern": 0.69,
+      "Udyr": 0.67,
+      "Nautilus": 0.55,
+      "Milio": 0.53
+    },
+    "counters": {
+      "Teemo": 0.5,
+      "Tristana": 0.56,
+      "Jhin": 0.53
+    },
+    "combos": []
+  },
+  "Darius": {
+    "tags": [
+      "dps",
+      "engage",
+      "frontline",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 2,
+    "blind": 7,
+    "flex_roles": [
+      "top"
+    ],
+    "synergy": {
+      "Fiddlesticks": 0.6044,
+      "Zac": 0.5897,
+      "Evelynn": 0.5654
+    },
+    "counters": {},
+    "combos": []
+  },
+  "Diana": {
+    "tags": [
+      "burst",
+      "dive",
+      "dps",
+      "pick",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 4,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ],
+    "synergy": {
+      "Gnar": 0.5717,
+      "Elise": 0.59,
+      "Zilean": 0.56,
+      "Pyke": 0.55
+    },
+    "counters": {
+      "Naafiri": 0.5625
+    },
+    "combos": []
+  },
+  "Draven": {
+    "tags": [
+      "dps",
+      "scaling",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "ranged",
+    "difficulty": 8,
+    "blind": 5,
+    "flex_roles": [
+      "adc"
+    ],
+    "synergy": {
+      "Neeko": 0.62,
+      "Rakan": 0.61,
+      "Elise": 0.59
+    },
+    "counters": {
+      "Nilah": 0.53
+    },
+    "combos": []
+  },
+  "Dr. Mundo": {
+    "tags": [
+      "dps",
+      "engage",
+      "frontline",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 5,
+    "blind": 7,
+    "flex_roles": [
+      "top"
+    ],
+    "synergy": {
+      "Cho'Gath": 0.5862,
+      "Gangplank": 0.58,
+      "Shen": 0.64,
+      "Poppy": 0.62,
+      "Twisted Fate": 0.59
+    },
+    "counters": {
+      "Kennen": 0.5772,
+      "Malphite": 0.57,
+      "Kayn": 0.54,
+      "Jarvan IV": 0.54,
+      "Shyvana": 0.76
+    },
+    "combos": []
+  },
+  "Ekko": {
+    "tags": [
+      "burst",
+      "dive",
+      "pick",
+      "poke",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "melee",
+    "difficulty": 8,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ],
+    "synergy": {
+      "Braum": 0.56,
+      "Poppy": 0.54,
+      "Senna": 0.54,
+      "LeBlanc": 0.57
+    },
+    "counters": {
+      "Aurora": 0.6071,
+      "Fizz": 0.58
+    },
+    "combos": []
+  },
+  "Elise": {
+    "tags": [
+      "burst",
+      "dive",
+      "pick",
+      "poke",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 9,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ],
+    "synergy": {
+      "Olaf": 0.65,
+      "Gragas": 0.6333,
+      "Jayce": 0.5905,
+      "Poppy": 0.66,
+      "Fiora": 0.58,
+      "Nasus": 0.6,
+      "Diana": 0.59,
+      "Zed": 0.55,
+      "Hecarim": 0.65,
+      "Vex": 0.59,
+      "Aurelion Sol": 0.61,
+      "Kassadin": 0.64,
+      "LeBlanc": 0.58,
+      "Morgana": 0.78,
+      "Orianna": 0.55,
+      "Annie": 0.65,
+      "Draven": 0.59,
+      "Jhin": 0.56,
+      "Yunara": 0.53
+    },
+    "counters": {
+      "Kindred": 0.61,
+      "Viego": 0.58,
+      "Pyke": 0.55,
+      "Nautilus": 0.57,
+      "Lulu": 0.55
+    },
+    "combos": []
+  },
+  "Evelynn": {
+    "tags": [
+      "burst",
+      "dive",
+      "pick",
+      "poke",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "melee",
+    "difficulty": 10,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ],
+    "synergy": {
+      "Singed": 0.64,
+      "Kayle": 0.6,
+      "Gnar": 0.5789,
+      "Irelia": 0.6014,
+      "Yorick": 0.5701,
+      "Darius": 0.5654,
+      "Tryndamere": 0.5783,
+      "Aurora": 0.67,
+      "Zilean": 0.71,
+      "Maokai": 0.59,
+      "Soraka": 0.57,
+      "Veigar": 0.64,
+      "Kassadin": 0.64,
+      "Xerath": 0.59,
+      "Twisted Fate": 0.58,
+      "Azir": 0.58,
+      "Smolder": 0.55
+    },
+    "counters": {
+      "Wukong": 0.5957,
+      "Amumu": 0.63,
+      "Nidalee": 0.61,
+      "Viego": 0.6
+    },
+    "combos": []
+  },
+  "Ezreal": {
+    "tags": [
+      "dps",
+      "poke",
+      "scaling",
+      "siege",
+      "teamfight",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 7,
+    "blind": 8,
+    "flex_roles": [
+      "adc"
+    ],
+    "synergy": {
+      "LeBlanc": 0.54,
+      "Maokai": 0.54,
+      "Tahm Kench": 0.52
+    },
+    "counters": {},
+    "combos": []
+  },
+  "Fiddlesticks": {
+    "tags": [
+      "peel",
+      "poke",
+      "vision",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 9,
+    "blind": 7,
+    "flex_roles": [
+      "support"
+    ],
+    "synergy": {
+      "Gragas": 0.6875,
+      "Volibear": 0.5664,
+      "Darius": 0.6044,
+      "Ambessa": 0.5765,
+      "Brand": 0.61,
+      "Tahm Kench": 0.59,
+      "Janna": 0.58,
+      "Akshan": 0.61,
+      "Zoe": 0.62,
+      "Fizz": 0.6
+    },
+    "counters": {
+      "Karthus": 0.6,
+      "Graves": 0.55
+    },
+    "combos": []
+  },
+  "Fiora": {
+    "tags": [
+      "burst",
+      "dive",
+      "dps",
+      "pick",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 3,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ],
+    "synergy": {
+      "Rammus": 0.61,
+      "Rek'Sai": 0.6,
+      "Elise": 0.58
+    },
+    "counters": {
+      "Ornn": 0.5526
+    },
+    "combos": []
+  },
+  "Fizz": {
+    "tags": [
+      "burst",
+      "dive",
+      "dps",
+      "pick",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 6,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ],
+    "synergy": {
+      "Fiddlesticks": 0.6,
+      "Nunu & Willump": 0.6,
+      "Ivern": 0.58
+    },
+    "counters": {
+      "Aurelion Sol": 0.57
+    },
+    "combos": []
+  },
+  "Galio": {
+    "tags": [
+      "engage",
+      "followup",
+      "frontline",
+      "poke",
+      "teamfight",
+      "waveclear",
+      "wombo"
+    ],
+    "damage": "ap",
+    "range": "melee",
+    "difficulty": 5,
+    "blind": 6,
+    "flex_roles": [
+      "mid",
+      "support"
+    ],
+    "synergy": {
+      "Zyra": 0.64,
+      "Gwen": 0.61,
+      "Kindred": 0.56,
+      "Zac": 0.55
+    },
+    "counters": {},
+    "combos": [
+      {
+        "name": "cataclysm_entrance",
+        "champs": [
+          "Jarvan IV",
+          "Galio"
+        ],
+        "value": 7
+      },
+      {
+        "name": "unstoppable_wombo",
+        "champs": [
+          "Malphite",
+          "Galio"
+        ],
+        "value": 6
+      },
+      {
+        "name": "aoe_teamfight_shell",
+        "champs": [
+          "Seraphine",
+          "Galio"
+        ],
+        "value": 4
+      }
+    ]
+  },
+  "Gangplank": {
+    "tags": [
+      "dps",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 9,
+    "blind": 6,
+    "flex_roles": [
+      "top"
+    ],
+    "synergy": {
+      "Rammus": 0.6,
+      "Naafiri": 0.6,
+      "Dr. Mundo": 0.58
+    },
+    "counters": {},
+    "combos": []
+  },
+  "Garen": {
+    "tags": [
+      "dps",
+      "engage",
+      "frontline",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 5,
+    "blind": 7,
+    "flex_roles": [
+      "top"
+    ],
+    "synergy": {
+      "Ivern": 0.6102,
+      "Amumu": 0.6071,
+      "Volibear": 0.5888
+    },
+    "counters": {
+      "Gragas": 0.6214
+    },
+    "combos": []
+  },
+  "Gnar": {
+    "tags": [
+      "dps",
+      "engage",
+      "frontline",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 8,
+    "blind": 7,
+    "flex_roles": [
+      "top"
+    ],
+    "synergy": {
+      "Rammus": 0.5811,
+      "Evelynn": 0.5789,
+      "Diana": 0.5717
+    },
+    "counters": {},
+    "combos": []
+  },
+  "Gragas": {
+    "tags": [
+      "dps",
+      "poke",
+      "teamfight",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "melee",
+    "difficulty": 5,
+    "blind": 6,
+    "flex_roles": [
+      "top",
+      "jungle",
+      "mid",
+      "support"
+    ],
+    "synergy": {
+      "Fiddlesticks": 0.6875,
+      "Elise": 0.6333,
+      "Karthus": 0.6154
+    },
+    "counters": {
+      "Olaf": 0.5636,
+      "Shen": 0.6071,
+      "Teemo": 0.6122
+    },
+    "combos": []
+  },
+  "Graves": {
+    "tags": [
+      "dps",
+      "scaling",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "ranged",
+    "difficulty": 3,
+    "blind": 5,
+    "flex_roles": [
+      "adc"
+    ],
+    "synergy": {
+      "Anivia": 0.76,
+      "Rumble": 0.551,
+      "Sylas": 0.5876,
+      "Cho'Gath": 0.5817,
+      "Udyr": 0.6154,
+      "Xerath": 0.56,
+      "Seraphine": 0.56,
+      "Morgana": 0.71,
+      "Vel'Koz": 0.61
+    },
+    "counters": {
+      "Kayn": 0.57,
+      "Karthus": 0.59
+    },
+    "combos": []
+  },
+  "Gwen": {
+    "tags": [
+      "dps",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 5,
+    "blind": 6,
+    "flex_roles": [
+      "top"
+    ],
+    "synergy": {
+      "Briar": 0.62,
+      "Ivern": 0.58,
+      "Nidalee": 0.58,
+      "Heimerdinger": 0.68,
+      "Galio": 0.61
+    },
+    "counters": {
+      "Heimerdinger": 0.6,
+      "Aatrox": 0.5631,
+      "Dr. Mundo": 0.5888
+    },
+    "combos": []
+  },
+  "Hecarim": {
+    "tags": [
+      "dps",
+      "engage",
+      "frontline",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 6,
+    "blind": 7,
+    "flex_roles": [
+      "top"
+    ],
+    "synergy": {
+      "Trundle": 0.6,
+      "Elise": 0.65,
+      "Taric": 0.58,
+      "Poppy": 0.58
+    },
+    "counters": {
+      "Kha'Zix": 0.54,
+      "Fiddlesticks": 0.59,
+      "Kayn": 0.66
+    },
+    "combos": []
+  },
+  "Heimerdinger": {
+    "tags": [
+      "peel",
+      "poke",
+      "vision",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 8,
+    "blind": 7,
+    "flex_roles": [
+      "support"
+    ],
+    "synergy": {
+      "Bel'Veth": 0.92,
+      "Rammus": 0.76,
+      "Gwen": 0.68
+    },
+    "counters": {
+      "Sion": 0.5735
+    },
+    "combos": []
+  },
+  "Hwei": {
+    "tags": [
+      "peel",
+      "poke",
+      "vision",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 9,
+    "blind": 7,
+    "flex_roles": [
+      "support"
+    ],
+    "synergy": {
+      "Rengar": 0.62,
+      "Shaco": 0.59,
+      "Xin Zhao": 0.58
+    },
+    "counters": {},
+    "combos": []
+  },
+  "Illaoi": {
+    "tags": [
+      "dps",
+      "engage",
+      "frontline",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 4,
+    "blind": 7,
+    "flex_roles": [
+      "top"
+    ],
+    "synergy": {
+      "Karthus": 0.6042,
+      "Nocturne": 0.5949,
+      "Qiyana": 0.5897
+    },
+    "counters": {
+      "Olaf": 0.5676,
+      "Rumble": 0.5556
+    },
+    "combos": []
+  },
+  "Irelia": {
+    "tags": [
+      "burst",
+      "dive",
+      "dps",
+      "pick",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 5,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ],
+    "synergy": {
+      "Evelynn": 0.6014,
+      "Volibear": 0.5767,
+      "Naafiri": 0.573
+    },
+    "counters": {
+      "Kayle": 0.5574,
+      "Dr. Mundo": 0.5894,
+      "Gnar": 0.5593,
+      "Xerath": 0.56,
+      "Hwei": 0.61
+    },
+    "combos": []
+  },
+  "Ivern": {
+    "tags": [
+      "peel",
+      "poke",
+      "vision",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 7,
+    "blind": 7,
+    "flex_roles": [
+      "support"
+    ],
+    "synergy": {
+      "Kled": 0.65,
+      "Aatrox": 0.5567,
+      "Garen": 0.6102,
+      "Zac": 0.6875,
+      "Jax": 0.5704,
+      "Sylas": 0.5789,
+      "Yasuo": 0.6757,
+      "Yone": 0.6032,
+      "Wukong": 0.7,
+      "Gwen": 0.58,
+      "Poppy": 0.68,
+      "Teemo": 0.62,
+      "Twisted Fate": 0.57,
+      "Syndra": 0.55,
+      "Fizz": 0.58,
+      "Viktor": 0.64,
+      "Mel": 0.55,
+      "Corki": 0.69
+    },
+    "counters": {
+      "Rammus": 0.64,
+      "Rek'Sai": 0.6,
+      "Diana": 0.56,
+      "Ekko": 0.6,
+      "Jarvan IV": 0.56,
+      "Briar": 0.63,
+      "Xin Zhao": 0.68
+    },
+    "combos": []
+  },
+  "Janna": {
+    "tags": [
+      "peel",
+      "poke",
+      "vision",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 7,
+    "blind": 7,
+    "flex_roles": [
+      "support"
+    ],
+    "synergy": {
+      "Fiddlesticks": 0.58,
+      "Karthus": 0.59,
+      "Nidalee": 0.59,
+      "Xin Zhao": 0.54,
+      "Ziggs": 0.6,
+      "Yasuo": 0.59,
+      "Varus": 0.55
+    },
+    "counters": {
+      "Lux": 0.6,
+      "Braum": 0.53,
+      "Maokai": 0.62
+    },
+    "combos": []
+  },
+  "Jarvan IV": {
+    "tags": [
+      "dps",
+      "engage",
+      "frontline",
+      "teamfight",
+      "wombo"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 4,
+    "blind": 7,
+    "flex_roles": [
+      "jungle"
+    ],
+    "synergy": {
+      "Braum": 0.56,
+      "Soraka": 0.56,
+      "Zilean": 0.55
+    },
+    "counters": {
+      "Sett": 0.5,
+      "Evelynn": 0.59,
+      "Kindred": 0.63,
+      "Lillia": 0.6
+    },
+    "combos": [
+      {
+        "name": "cataclysm_entrance",
+        "champs": [
+          "Jarvan IV",
+          "Galio"
+        ],
+        "value": 7
+      }
+    ]
+  },
+  "Jax": {
+    "tags": [
+      "dps",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 5,
+    "blind": 6,
+    "flex_roles": [
+      "top"
+    ],
+    "synergy": {
+      "Camille": 0.6301,
+      "Ivern": 0.5704,
+      "Rek'Sai": 0.5579,
+      "Amumu": 0.5417,
+      "Tryndamere": 0.5636,
+      "Neeko": 0.71,
+      "Syndra": 0.57
+    },
+    "counters": {},
+    "combos": []
+  },
+  "Jayce": {
+    "tags": [
+      "dps",
+      "scaling",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 7,
+    "blind": 5,
+    "flex_roles": [
+      "top"
+    ],
+    "synergy": {
+      "Rammus": 0.6389,
+      "Udyr": 0.6038,
+      "Elise": 0.5905
+    },
+    "counters": {
+      "Sett": 0.5556
+    },
+    "combos": []
+  },
+  "Jhin": {
+    "tags": [
+      "dps",
+      "poke",
+      "scaling",
+      "teamfight",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 6,
+    "blind": 5,
+    "flex_roles": [
+      "adc"
+    ],
+    "synergy": {
+      "Elise": 0.56,
+      "Brand": 0.55,
+      "Shaco": 0.54
+    },
+    "counters": {},
+    "combos": []
+  },
+  "Jinx": {
+    "tags": [
+      "dps",
+      "scaling",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "ranged",
+    "difficulty": 6,
+    "blind": 5,
+    "flex_roles": [
+      "adc"
+    ],
+    "synergy": {
+      "Braum": 0.57,
+      "Taric": 0.56,
+      "Zilean": 0.55,
+      "Maokai": 0.59
+    },
+    "counters": {
+      "Samira": 0.58,
+      "Xayah": 0.53
+    },
+    "combos": []
+  },
+  "Kai'Sa": {
+    "tags": [
+      "dps",
+      "poke",
+      "scaling",
+      "teamfight",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 6,
+    "blind": 5,
+    "flex_roles": [
+      "adc"
+    ],
+    "synergy": {
+      "Shaco": 0.54,
+      "Neeko": 0.54,
+      "Braum": 0.52
+    },
+    "counters": {},
+    "combos": []
+  },
+  "Kalista": {
+    "tags": [
+      "dps",
+      "scaling",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "ranged",
+    "difficulty": 7,
+    "blind": 5,
+    "flex_roles": [
+      "adc"
+    ],
+    "synergy": {
+      "Sona": 0.64,
+      "Tahm Kench": 0.62,
+      "Karma": 0.61
+    },
+    "counters": {
+      "Kog'Maw": 0.71
+    },
+    "combos": []
+  },
+  "Karma": {
+    "tags": [
+      "peel",
+      "poke",
+      "vision",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 5,
+    "blind": 7,
+    "flex_roles": [
+      "support"
+    ],
+    "synergy": {
+      "Skarner": 0.66,
+      "Kalista": 0.61,
+      "Swain": 0.55,
+      "Kog'Maw": 0.54,
+      "Nilah": 0.53
+    },
+    "counters": {},
+    "combos": []
+  },
+  "Karthus": {
+    "tags": [
+      "poke",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 7,
+    "blind": 6,
+    "flex_roles": [
+      "jungle",
+      "mid"
+    ],
+    "synergy": {
+      "Kayle": 0.62,
+      "Gragas": 0.6154,
+      "Rumble": 0.6047,
+      "Zaahen": 0.5683,
+      "Illaoi": 0.6042,
+      "Naafiri": 0.8,
+      "Neeko": 0.7,
+      "Janna": 0.59,
+      "Morgana": 0.58,
+      "Lissandra": 0.62,
+      "Ahri": 0.57,
+      "LeBlanc": 0.58,
+      "Brand": 0.78,
+      "Mel": 0.55
+    },
+    "counters": {
+      "Jayce": 0.6287,
+      "Jarvan IV": 0.56,
+      "Kha'Zix": 0.54,
+      "Xin Zhao": 0.66
+    },
+    "combos": []
+  },
+  "Kassadin": {
+    "tags": [
+      "burst",
+      "dive",
+      "pick",
+      "poke",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "melee",
+    "difficulty": 8,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ],
+    "synergy": {
+      "Evelynn": 0.64,
+      "Elise": 0.64,
+      "Rammus": 0.62
+    },
+    "counters": {
+      "Twisted Fate": 0.55,
+      "Katarina": 0.53,
+      "Orianna": 0.57
+    },
+    "combos": []
+  },
+  "Katarina": {
+    "tags": [
+      "burst",
+      "dive",
+      "pick",
+      "poke",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "melee",
+    "difficulty": 8,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ],
+    "synergy": {
+      "Nidalee": 0.58,
+      "Shaco": 0.57,
+      "Udyr": 0.57,
+      "Yuumi": 0.55
+    },
+    "counters": {
+      "Malzahar": 0.57
+    },
+    "combos": []
+  },
+  "Kayle": {
+    "tags": [
+      "dps",
+      "poke",
+      "scaling",
+      "teamfight",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "melee",
+    "difficulty": 7,
+    "blind": 5,
+    "flex_roles": [
+      "mid"
+    ],
+    "synergy": {
+      "Karthus": 0.62,
+      "Evelynn": 0.6,
+      "Warwick": 0.6
+    },
+    "counters": {
+      "Anivia": 0.6154,
+      "Garen": 0.56,
+      "Urgot": 0.5901,
+      "Sett": 0.5644,
+      "Zaahen": 0.5674,
+      "Aurelion Sol": 0.58,
+      "Mel": 0.7,
+      "Yasuo": 0.58
+    },
+    "combos": []
+  },
+  "Kayn": {
+    "tags": [
+      "burst",
+      "dive",
+      "dps",
+      "pick",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 8,
+    "blind": 4,
+    "flex_roles": [
+      "jungle"
+    ],
+    "synergy": {
+      "Wukong": 0.67,
+      "Brand": 0.57,
+      "Soraka": 0.55,
+      "Neeko": 0.54
+    },
+    "counters": {
+      "Graves": 0.56
+    },
+    "combos": []
+  },
+  "Kennen": {
+    "tags": [
+      "poke",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 4,
+    "blind": 6,
+    "flex_roles": [
+      "mid"
+    ],
+    "synergy": {
+      "Naafiri": 0.63,
+      "Lillia": 0.61
+    },
+    "counters": {
+      "Kayle": 0.5677,
+      "Fiora": 0.5754,
+      "Aatrox": 0.5767
+    },
+    "combos": []
+  },
+  "Kha'Zix": {
+    "tags": [
+      "burst",
+      "dive",
+      "pick"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 6,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ],
+    "synergy": {
+      "Lux": 0.58
+    },
+    "counters": {},
+    "combos": []
+  },
+  "Kindred": {
+    "tags": [
+      "dps",
+      "scaling",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "ranged",
+    "difficulty": 4,
+    "blind": 5,
+    "flex_roles": [
+      "jungle",
+      "adc"
+    ],
+    "synergy": {
+      "Cassiopeia": 0.85,
+      "Zaahen": 0.5702,
+      "Ambessa": 0.5463,
+      "Mordekaiser": 0.567,
+      "Shaco": 0.71,
+      "Vel'Koz": 0.61,
+      "Alistar": 0.61,
+      "Zoe": 0.6,
+      "Ahri": 0.61,
+      "Galio": 0.56
+    },
+    "counters": {
+      "Zac": 0.54,
+      "Rengar": 0.56,
+      "Rek'Sai": 0.59,
+      "Shaco": 0.59,
+      "Master Yi": 0.57,
+      "Nocturne": 0.63,
+      "Shyvana": 0.67,
+      "Vi": 0.58
+    },
+    "combos": []
+  },
+  "Kled": {
+    "tags": [
+      "dps",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 7,
+    "blind": 6,
+    "flex_roles": [
+      "top"
+    ],
+    "synergy": {
+      "Xin Zhao": 0.69,
+      "Ivern": 0.65
+    },
+    "counters": {
+      "Riven": 0.619,
+      "Gangplank": 0.5959,
+      "Garen": 0.5986
+    },
+    "combos": []
+  },
+  "Kog'Maw": {
+    "tags": [
+      "dps",
+      "poke",
+      "scaling",
+      "teamfight",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 6,
+    "blind": 5,
+    "flex_roles": [
+      "adc"
+    ],
+    "synergy": {
+      "Vel'Koz": 0.74,
+      "Brand": 0.65,
+      "Braum": 0.63,
+      "Karma": 0.54,
+      "Lulu": 0.54,
+      "Milio": 0.54
+    },
+    "counters": {
+      "Teemo": 0.5,
+      "Ziggs": 0.58,
+      "Corki": 0.57,
+      "Smolder": 0.58,
+      "Lucian": 0.57,
+      "Zeri": 0.58,
+      "Draven": 0.6
+    },
+    "combos": []
+  },
+  "K'Sante": {
+    "tags": [
+      "dps",
+      "engage",
+      "frontline",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 9,
+    "blind": 7,
+    "flex_roles": [
+      "top"
+    ],
+    "synergy": {
+      "Amumu": 0.6,
+      "Zyra": 0.5625,
+      "Sejuani": 0.5614
+    },
+    "counters": {},
+    "combos": []
+  },
+  "LeBlanc": {
+    "tags": [
+      "burst",
+      "dive",
+      "pick",
+      "poke",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 9,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ],
+    "synergy": {
+      "Elise": 0.58,
+      "Karthus": 0.58,
+      "Ekko": 0.57,
+      "Ezreal": 0.54
+    },
+    "counters": {
+      "Poppy": 0.72,
+      "Azir": 0.65
+    },
+    "combos": []
+  },
+  "Lee Sin": {
+    "tags": [
+      "burst",
+      "dive",
+      "dps",
+      "pick",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 6,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ],
+    "synergy": {
+      "Zyra": 0.56,
+      "Taric": 0.55,
+      "Neeko": 0.55
+    },
+    "counters": {},
+    "combos": []
+  },
+  "Leona": {
+    "tags": [
+      "engage",
+      "frontline",
+      "peel",
+      "teamfight",
+      "vision"
+    ],
+    "damage": "mixed",
+    "range": "melee",
+    "difficulty": 4,
+    "blind": 8,
+    "flex_roles": [
+      "support"
+    ],
+    "synergy": {
+      "Sivir": 0.54,
+      "Xayah": 0.55,
+      "Zeri": 0.58,
+      "Swain": 0.56,
+      "Nilah": 0.56
+    },
+    "counters": {
+      "Nami": 0.52,
+      "Zyra": 0.53,
+      "Senna": 0.56,
+      "Blitzcrank": 0.59
+    },
+    "combos": []
+  },
+  "Lillia": {
+    "tags": [
+      "dps",
+      "poke",
+      "teamfight",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 8,
+    "blind": 6,
+    "flex_roles": [
+      "mid"
+    ],
+    "synergy": {
+      "Kennen": 0.61,
+      "Shen": 0.6,
+      "Taric": 0.67,
+      "Maokai": 0.59,
+      "Rakan": 0.54,
+      "Azir": 0.57
+    },
+    "counters": {
+      "Nocturne": 0.59
+    },
+    "combos": []
+  },
+  "Lissandra": {
+    "tags": [
+      "poke",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 6,
+    "blind": 6,
+    "flex_roles": [
+      "mid"
+    ],
+    "synergy": {
+      "Karthus": 0.62,
+      "Bel'Veth": 0.61,
+      "Nocturne": 0.61
+    },
+    "counters": {
+      "Anivia": 0.5506,
+      "Naafiri": 0.6133
+    },
+    "combos": []
+  },
+  "Lucian": {
+    "tags": [
+      "burst",
+      "dive",
+      "dps",
+      "pick",
+      "scaling",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "ranged",
+    "difficulty": 6,
+    "blind": 3,
+    "flex_roles": [
+      "adc"
+    ],
+    "synergy": {
+      "Taric": 0.55,
+      "Yuumi": 0.53,
+      "Braum": 0.52
+    },
+    "counters": {},
+    "combos": []
+  },
+  "Lulu": {
+    "tags": [
+      "peel",
+      "poke",
+      "vision",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 5,
+    "blind": 7,
+    "flex_roles": [
+      "support"
+    ],
+    "synergy": {
+      "Kog'Maw": 0.54,
+      "Tristana": 0.53,
+      "Twitch": 0.53
+    },
+    "counters": {},
+    "combos": []
+  },
+  "Lux": {
+    "tags": [
+      "peel",
+      "poke",
+      "vision",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 5,
+    "blind": 7,
+    "flex_roles": [
+      "support"
+    ],
+    "synergy": {
+      "Rengar": 0.58,
+      "Rammus": 0.6,
+      "Vi": 0.58,
+      "Kha'Zix": 0.58
+    },
+    "counters": {
+      "Syndra": 0.55,
+      "Galio": 0.6
+    },
+    "combos": []
+  },
+  "Malphite": {
+    "tags": [
+      "engage",
+      "frontline",
+      "poke",
+      "teamfight",
+      "waveclear",
+      "wombo"
+    ],
+    "damage": "ap",
+    "range": "melee",
+    "difficulty": 2,
+    "blind": 8,
+    "flex_roles": [
+      "top"
+    ],
+    "synergy": {
+      "Vayne": 0.5629,
+      "Rengar": 0.5575,
+      "Udyr": 0.5417,
+      "Bel'Veth": 0.5368
+    },
+    "counters": {
+      "Ivern": 0.64,
+      "Zed": 0.61,
+      "Yasuo": 0.59
+    },
+    "combos": [
+      {
+        "name": "unstoppable_wombo",
+        "champs": [
+          "Malphite",
+          "Galio"
+        ],
+        "value": 6
+      }
+    ]
+  },
+  "Malzahar": {
+    "tags": [
+      "poke",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 6,
+    "blind": 6,
+    "flex_roles": [
+      "mid"
+    ],
+    "synergy": {
+      "Qiyana": 0.57,
+      "Master Yi": 0.56,
+      "Zac": 0.55
+    },
+    "counters": {
+      "Zoe": 0.59
+    },
+    "combos": []
+  },
+  "Maokai": {
+    "tags": [
+      "engage",
+      "frontline",
+      "peel",
+      "teamfight",
+      "vision"
+    ],
+    "damage": "mixed",
+    "range": "melee",
+    "difficulty": 3,
+    "blind": 8,
+    "flex_roles": [
+      "top",
+      "jungle",
+      "support"
+    ],
+    "synergy": {
+      "Evelynn": 0.59,
+      "Shaco": 0.57,
+      "Lillia": 0.59,
+      "Xin Zhao": 0.62,
+      "Qiyana": 0.57,
+      "Miss Fortune": 0.55,
+      "Ezreal": 0.54,
+      "Yasuo": 0.72,
+      "Swain": 0.66,
+      "Jinx": 0.59
+    },
+    "counters": {
+      "Sona": 0.59,
+      "Nami": 0.56,
+      "Bard": 0.63
+    },
+    "combos": []
+  },
+  "Master Yi": {
+    "tags": [
+      "burst",
+      "dive",
+      "dps",
+      "pick",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 4,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ],
+    "synergy": {
+      "Sett": 0.5875,
+      "Warwick": 0.6552,
+      "Wukong": 0.66,
+      "Renata Glasc": 0.61,
+      "Shaco": 0.56,
+      "Xerath": 0.55,
+      "Malzahar": 0.56,
+      "Smolder": 0.55
+    },
+    "counters": {},
+    "combos": []
+  },
+  "Mel": {
+    "tags": [
+      "peel",
+      "poke",
+      "vision",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 5,
+    "blind": 7,
+    "flex_roles": [
+      "support"
+    ],
+    "synergy": {
+      "Rammus": 0.58,
+      "Ivern": 0.55,
+      "Karthus": 0.55
+    },
+    "counters": {
+      "Vel'Koz": 0.6
+    },
+    "combos": []
+  },
+  "Milio": {
+    "tags": [
+      "peel",
+      "poke",
+      "vision",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 5,
+    "blind": 7,
+    "flex_roles": [
+      "support"
+    ],
+    "synergy": {
+      "Amumu": 0.57,
+      "Seraphine": 0.69,
+      "Kog'Maw": 0.54,
+      "Corki": 0.53,
+      "Twitch": 0.52
+    },
+    "counters": {
+      "Pantheon": 0.6333,
+      "Vel'Koz": 0.57
+    },
+    "combos": []
+  },
+  "Miss Fortune": {
+    "tags": [
+      "dps",
+      "poke",
+      "scaling",
+      "teamfight",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 1,
+    "blind": 5,
+    "flex_roles": [
+      "adc"
+    ],
+    "synergy": {
+      "Shaco": 0.56,
+      "Braum": 0.55,
+      "Maokai": 0.55
+    },
+    "counters": {
+      "Aphelios": 0.56,
+      "Vayne": 0.55,
+      "Ezreal": 0.56
+    },
+    "combos": []
+  },
+  "Wukong": {
+    "tags": [
+      "dps",
+      "engage",
+      "frontline",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 3,
+    "blind": 7,
+    "flex_roles": [
+      "top"
+    ],
+    "synergy": {
+      "Olaf": 0.65,
+      "Akali": 0.5926,
+      "Ivern": 0.7,
+      "Kayn": 0.67,
+      "Master Yi": 0.66,
+      "Vel'Koz": 0.61
+    },
+    "counters": {},
+    "combos": []
+  },
+  "Mordekaiser": {
+    "tags": [
+      "dps",
+      "poke",
+      "teamfight",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "melee",
+    "difficulty": 4,
+    "blind": 6,
+    "flex_roles": [
+      "mid"
+    ],
+    "synergy": {
+      "Kindred": 0.567,
+      "Nocturne": 0.5568,
+      "Briar": 0.5495
+    },
+    "counters": {
+      "Garen": 0.56,
+      "Sett": 0.5
+    },
+    "combos": []
+  },
+  "Morgana": {
+    "tags": [
+      "peel",
+      "poke",
+      "vision",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 1,
+    "blind": 7,
+    "flex_roles": [
+      "jungle",
+      "support"
+    ],
+    "synergy": {
+      "Amumu": 0.58,
+      "Karthus": 0.58,
+      "Nidalee": 0.57,
+      "Graves": 0.71,
+      "Nunu & Willump": 0.81,
+      "Elise": 0.78,
+      "Seraphine": 0.72
+    },
+    "counters": {
+      "Leona": 0.54
+    },
+    "combos": []
+  },
+  "Naafiri": {
+    "tags": [
+      "burst",
+      "dive",
+      "dps",
+      "pick",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 2,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ],
+    "synergy": {
+      "Kennen": 0.63,
+      "Rumble": 0.5541,
+      "Irelia": 0.573,
+      "Zac": 0.6667,
+      "Ryze": 0.6522,
+      "Gangplank": 0.6,
+      "Karthus": 0.8,
+      "Rammus": 0.8,
+      "Aatrox": 0.75,
+      "Teemo": 0.65
+    },
+    "counters": {
+      "Wukong": 0.6,
+      "Galio": 0.56,
+      "Elise": 0.59,
+      "Lee Sin": 0.56,
+      "Aurelion Sol": 0.58,
+      "Twisted Fate": 0.56,
+      "LeBlanc": 0.59,
+      "Annie": 0.67
+    },
+    "combos": []
+  },
+  "Nami": {
+    "tags": [
+      "peel",
+      "poke",
+      "vision",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 5,
+    "blind": 7,
+    "flex_roles": [
+      "support"
+    ],
+    "synergy": {
+      "Veigar": 0.61,
+      "Brand": 0.57,
+      "Nilah": 0.56
+    },
+    "counters": {
+      "Neeko": 0.57,
+      "Morgana": 0.55
+    },
+    "combos": []
+  },
+  "Nasus": {
+    "tags": [
+      "dps",
+      "engage",
+      "frontline",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 6,
+    "blind": 7,
+    "flex_roles": [
+      "top"
+    ],
+    "synergy": {
+      "Nidalee": 0.62,
+      "Elise": 0.6,
+      "Shaco": 0.57
+    },
+    "counters": {},
+    "combos": []
+  },
+  "Nautilus": {
+    "tags": [
+      "engage",
+      "frontline",
+      "peel",
+      "teamfight",
+      "vision"
+    ],
+    "damage": "mixed",
+    "range": "melee",
+    "difficulty": 6,
+    "blind": 8,
+    "flex_roles": [
+      "support"
+    ],
+    "synergy": {
+      "Nilah": 0.56,
+      "Corki": 0.55,
+      "Swain": 0.54
+    },
+    "counters": {
+      "Karma": 0.55
+    },
+    "combos": []
+  },
+  "Neeko": {
+    "tags": [
+      "peel",
+      "poke",
+      "vision",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 5,
+    "blind": 7,
+    "flex_roles": [
+      "support"
+    ],
+    "synergy": {
+      "Zyra": 0.61,
+      "Karthus": 0.7,
+      "Lee Sin": 0.55,
+      "Zed": 0.55,
+      "Kayn": 0.54,
+      "Vi": 0.71,
+      "Jax": 0.71,
+      "Nilah": 0.65,
+      "Zeri": 0.66,
+      "Kai'Sa": 0.54,
+      "Draven": 0.62
+    },
+    "counters": {
+      "Pantheon": 0.6118,
+      "Vel'Koz": 0.6,
+      "Taric": 0.58,
+      "Braum": 0.54,
+      "Sona": 0.53,
+      "Thresh": 0.54
+    },
+    "combos": []
+  },
+  "Nidalee": {
+    "tags": [
+      "burst",
+      "dive",
+      "pick",
+      "poke",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 8,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ],
+    "synergy": {
+      "Cassiopeia": 0.8,
+      "Anivia": 0.82,
+      "Yorick": 0.5735,
+      "Aurora": 0.68,
+      "Gwen": 0.58,
+      "Nasus": 0.62,
+      "Janna": 0.59,
+      "Senna": 0.58,
+      "Morgana": 0.57,
+      "Katarina": 0.58
+    },
+    "counters": {
+      "Xin Zhao": 0.67
+    },
+    "combos": []
+  },
+  "Nilah": {
+    "tags": [
+      "burst",
+      "dive",
+      "dps",
+      "pick",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "ranged",
+    "difficulty": 10,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ],
+    "synergy": {
+      "Neeko": 0.65,
+      "Rell": 0.63,
+      "Thresh": 0.6,
+      "Braum": 0.59,
+      "Nami": 0.56,
+      "Soraka": 0.54,
+      "Sona": 0.56,
+      "Leona": 0.56,
+      "Pyke": 0.57,
+      "Rakan": 0.53,
+      "Nautilus": 0.56,
+      "Blitzcrank": 0.54,
+      "Karma": 0.53,
+      "Yuumi": 0.54
+    },
+    "counters": {
+      "Varus": 0.59,
+      "Twitch": 0.58,
+      "Ezreal": 0.56,
+      "Ziggs": 0.54,
+      "Smolder": 0.59,
+      "Kog'Maw": 0.59,
+      "Lucian": 0.56,
+      "Ashe": 0.6,
+      "Caitlyn": 0.54,
+      "Aphelios": 0.55,
+      "Samira": 0.57,
+      "Xayah": 0.57,
+      "Kalista": 0.62,
+      "Kai'Sa": 0.58
+    },
+    "combos": []
+  },
+  "Nocturne": {
+    "tags": [
+      "burst",
+      "dive",
+      "dps",
+      "pick",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 4,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ],
+    "synergy": {
+      "Warwick": 0.6667,
+      "Illaoi": 0.5949,
+      "Mordekaiser": 0.5568,
+      "Taric": 0.63,
+      "Braum": 0.56,
+      "Vel'Koz": 0.55,
+      "Lissandra": 0.61
+    },
+    "counters": {
+      "Rengar": 0.57,
+      "Amumu": 0.63,
+      "Kayn": 0.58
+    },
+    "combos": []
+  },
+  "Nunu & Willump": {
+    "tags": [
+      "engage",
+      "frontline",
+      "poke",
+      "teamfight",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "melee",
+    "difficulty": 4,
+    "blind": 7,
+    "flex_roles": [
+      "mid"
+    ],
+    "synergy": {
+      "Zaahen": 0.5833,
+      "Aurora": 0.65,
+      "Vel'Koz": 0.61,
+      "Fizz": 0.6,
+      "Morgana": 0.81,
+      "Ziggs": 0.7
+    },
+    "counters": {
+      "Talon": 0.56
+    },
+    "combos": []
+  },
+  "Olaf": {
+    "tags": [
+      "dps",
+      "engage",
+      "frontline",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 3,
+    "blind": 7,
+    "flex_roles": [
+      "top"
+    ],
+    "synergy": {
+      "Elise": 0.65,
+      "Wukong": 0.65
+    },
+    "counters": {
+      "Quinn": 0.6552,
+      "Ornn": 0.5672,
+      "Heimerdinger": 0.6364,
+      "Sion": 0.6,
+      "Irelia": 0.62
+    },
+    "combos": []
+  },
+  "Orianna": {
+    "tags": [
+      "peel",
+      "poke",
+      "vision",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 7,
+    "blind": 7,
+    "flex_roles": [
+      "support"
+    ],
+    "synergy": {
+      "Warwick": 0.59,
+      "Sejuani": 0.56,
+      "Elise": 0.55
+    },
+    "counters": {},
+    "combos": []
+  },
+  "Ornn": {
+    "tags": [
+      "engage",
+      "frontline",
+      "teamfight"
+    ],
+    "damage": "mixed",
+    "range": "melee",
+    "difficulty": 5,
+    "blind": 7,
+    "flex_roles": [
+      "top"
+    ],
+    "synergy": {
+      "Udyr": 0.62,
+      "Aatrox": 0.57
+    },
+    "counters": {
+      "Quinn": 0.6271,
+      "Teemo": 0.6509,
+      "Rumble": 0.5672
+    },
+    "combos": []
+  },
+  "Pantheon": {
+    "tags": [
+      "burst",
+      "dive",
+      "dps",
+      "pick",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 4,
+    "blind": 4,
+    "flex_roles": [
+      "top",
+      "jungle",
+      "mid",
+      "support"
+    ],
+    "synergy": {
+      "Bel'Veth": 0.74,
+      "Zyra": 0.7
+    },
+    "counters": {
+      "Riven": 0.5846,
+      "Gangplank": 0.5806,
+      "Nasus": 0.566,
+      "Gnar": 0.5538,
+      "Camille": 0.5789,
+      "Qiyana": 0.59,
+      "Zed": 0.59,
+      "Soraka": 0.54
+    },
+    "combos": []
+  },
+  "Poppy": {
+    "tags": [
+      "dps",
+      "engage",
+      "frontline",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 6,
+    "blind": 7,
+    "flex_roles": [
+      "top"
+    ],
+    "synergy": {
+      "Ivern": 0.68,
+      "Elise": 0.66,
+      "Dr. Mundo": 0.62,
+      "Zyra": 0.62,
+      "Ekko": 0.54,
+      "Hecarim": 0.58,
+      "Taliyah": 0.64,
+      "Qiyana": 0.57
+    },
+    "counters": {
+      "Kled": 0.6176,
+      "Lux": 0.65,
+      "Rell": 0.57,
+      "Rakan": 0.58
+    },
+    "combos": []
+  },
+  "Pyke": {
+    "tags": [
+      "burst",
+      "dive",
+      "peel",
+      "pick",
+      "vision"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 7,
+    "blind": 5,
+    "flex_roles": [
+      "support"
+    ],
+    "synergy": {
+      "Skarner": 0.64,
+      "Diana": 0.55,
+      "Bel'Veth": 0.62,
+      "Aphelios": 0.54,
+      "Ziggs": 0.6,
+      "Nilah": 0.57,
+      "Swain": 0.56
+    },
+    "counters": {
+      "Seraphine": 0.52
+    },
+    "combos": []
+  },
+  "Qiyana": {
+    "tags": [
+      "burst",
+      "dive",
+      "pick"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 8,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ],
+    "synergy": {
+      "Quinn": 0.73,
+      "Illaoi": 0.5897,
+      "Tahm Kench": 0.6296,
+      "Taric": 0.65,
+      "Poppy": 0.57,
+      "Maokai": 0.57,
+      "Malzahar": 0.57
+    },
+    "counters": {
+      "Ahri": 0.57,
+      "Ivern": 0.61,
+      "Karthus": 0.61,
+      "Taliyah": 0.57,
+      "Veigar": 0.58,
+      "Syndra": 0.56,
+      "Lissandra": 0.59,
+      "Hwei": 0.63
+    },
+    "combos": []
+  },
+  "Quinn": {
+    "tags": [
+      "burst",
+      "dive",
+      "dps",
+      "pick",
+      "scaling",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "ranged",
+    "difficulty": 5,
+    "blind": 3,
+    "flex_roles": [
+      "adc"
+    ],
+    "synergy": {
+      "Qiyana": 0.73,
+      "Zaahen": 0.72,
+      "Vi": 0.7
+    },
+    "counters": {
+      "Kled": 0.6154,
+      "Gangplank": 0.5667,
+      "Nasus": 0.6406,
+      "Garen": 0.642
+    },
+    "combos": []
+  },
+  "Rakan": {
+    "tags": [
+      "peel",
+      "vision"
+    ],
+    "damage": "mixed",
+    "range": "ranged",
+    "difficulty": 5,
+    "blind": 7,
+    "flex_roles": [
+      "support"
+    ],
+    "synergy": {
+      "Shaco": 0.6,
+      "Lillia": 0.54,
+      "Draven": 0.61,
+      "Swain": 0.62,
+      "Nilah": 0.53
+    },
+    "counters": {
+      "Milio": 0.53
+    },
+    "combos": []
+  },
+  "Rammus": {
+    "tags": [
+      "engage",
+      "frontline",
+      "teamfight"
+    ],
+    "damage": "mixed",
+    "range": "melee",
+    "difficulty": 5,
+    "blind": 7,
+    "flex_roles": [
+      "top"
+    ],
+    "synergy": {
+      "Varus": 0.65,
+      "Singed": 0.65,
+      "Gnar": 0.5811,
+      "Jayce": 0.6389,
+      "Camille": 0.6557,
+      "Ryze": 0.6216,
+      "Renekton": 0.5769,
+      "Vayne": 0.5902,
+      "Tryndamere": 0.6,
+      "Gangplank": 0.6,
+      "Heimerdinger": 0.76,
+      "Naafiri": 0.8,
+      "Fiora": 0.61,
+      "Vex": 0.67,
+      "Kassadin": 0.62,
+      "Zoe": 0.59,
+      "Lux": 0.6,
+      "Brand": 0.67,
+      "Viktor": 0.59,
+      "Mel": 0.58,
+      "Tristana": 0.8
+    },
+    "counters": {
+      "Sett": 0.5,
+      "Rengar": 0.58,
+      "Ekko": 0.56,
+      "Master Yi": 0.57,
+      "Talon": 0.62,
+      "Hecarim": 0.64,
+      "Viego": 0.58
+    },
+    "combos": []
+  },
+  "Rek'Sai": {
+    "tags": [
+      "dps",
+      "engage",
+      "frontline",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 3,
+    "blind": 7,
+    "flex_roles": [
+      "top"
+    ],
+    "synergy": {
+      "Sett": 0.6531,
+      "Akali": 0.5922,
+      "Zac": 0.6452,
+      "Ryze": 0.593,
+      "Jax": 0.5579,
+      "Yone": 0.5726,
+      "Fiora": 0.6,
+      "Viktor": 0.59,
+      "Annie": 0.68
+    },
+    "counters": {
+      "Zac": 0.61,
+      "Elise": 0.58,
+      "Rammus": 0.6,
+      "Skarner": 0.76,
+      "Jarvan IV": 0.55,
+      "Nocturne": 0.62,
+      "Kayn": 0.56
+    },
+    "combos": []
+  },
+  "Rell": {
+    "tags": [
+      "engage",
+      "frontline",
+      "peel",
+      "teamfight",
+      "vision"
+    ],
+    "damage": "mixed",
+    "range": "melee",
+    "difficulty": 0,
+    "blind": 8,
+    "flex_roles": [
+      "support"
+    ],
+    "synergy": {
+      "Viego": 0.52,
+      "Nilah": 0.63,
+      "Sivir": 0.57,
+      "Swain": 0.58,
+      "Ziggs": 0.57
+    },
+    "counters": {
+      "Seraphine": 0.55
+    },
+    "combos": []
+  },
+  "Renata Glasc": {
+    "tags": [
+      "peel",
+      "poke",
+      "vision",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 8,
+    "blind": 7,
+    "flex_roles": [
+      "support"
+    ],
+    "synergy": {
+      "Master Yi": 0.61,
+      "Briar": 0.63,
+      "Twitch": 0.57,
+      "Samira": 0.59
+    },
+    "counters": {
+      "Rakan": 0.66,
+      "Karma": 0.56,
+      "Bard": 0.58,
+      "Yuumi": 0.63
+    },
+    "combos": []
+  },
+  "Renekton": {
+    "tags": [
+      "dps",
+      "engage",
+      "frontline",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 3,
+    "blind": 7,
+    "flex_roles": [
+      "top"
+    ],
+    "synergy": {
+      "Zyra": 0.5844,
+      "Rammus": 0.5769,
+      "Bel'Veth": 0.567
+    },
+    "counters": {},
+    "combos": []
+  },
+  "Rengar": {
+    "tags": [
+      "burst",
+      "dive",
+      "dps",
+      "pick",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 8,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ],
+    "synergy": {
+      "Malphite": 0.5575,
+      "Brand": 0.67,
+      "Vel'Koz": 0.59,
+      "Lux": 0.58,
+      "Hwei": 0.62
+    },
+    "counters": {
+      "Jayce": 0.585,
+      "Lillia": 0.63
+    },
+    "combos": []
+  },
+  "Riven": {
+    "tags": [
+      "burst",
+      "dive",
+      "dps",
+      "pick",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 8,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ],
+    "synergy": {
+      "Zac": 0.59,
+      "Udyr": 0.58
+    },
+    "counters": {
+      "Kayle": 0.5575,
+      "Gwen": 0.5841
+    },
+    "combos": []
+  },
+  "Rumble": {
+    "tags": [
+      "dps",
+      "poke",
+      "teamfight",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "melee",
+    "difficulty": 10,
+    "blind": 6,
+    "flex_roles": [
+      "mid"
+    ],
+    "synergy": {
+      "Karthus": 0.6047,
+      "Naafiri": 0.5541,
+      "Graves": 0.551
+    },
+    "counters": {},
+    "combos": []
+  },
+  "Ryze": {
+    "tags": [
+      "poke",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 7,
+    "blind": 6,
+    "flex_roles": [
+      "mid"
+    ],
+    "synergy": {
+      "Naafiri": 0.6522,
+      "Rammus": 0.6216,
+      "Rek'Sai": 0.593
+    },
+    "counters": {
+      "Darius": 0.58,
+      "Gnar": 0.5954
+    },
+    "combos": []
+  },
+  "Samira": {
+    "tags": [
+      "burst",
+      "dive",
+      "dps",
+      "pick",
+      "scaling",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "ranged",
+    "difficulty": 6,
+    "blind": 3,
+    "flex_roles": [
+      "adc"
+    ],
+    "synergy": {
+      "Renata Glasc": 0.59,
+      "Sona": 0.56,
+      "Zilean": 0.56
+    },
+    "counters": {
+      "Vayne": 0.55
+    },
+    "combos": []
+  },
+  "Sejuani": {
+    "tags": [
+      "engage",
+      "frontline",
+      "teamfight"
+    ],
+    "damage": "mixed",
+    "range": "melee",
+    "difficulty": 4,
+    "blind": 7,
+    "flex_roles": [
+      "top"
+    ],
+    "synergy": {
+      "Cassiopeia": 0.74,
+      "Varus": 0.67,
+      "Urgot": 0.62,
+      "Akali": 0.5814,
+      "Yorick": 0.5926,
+      "Zyra": 0.8571,
+      "Aatrox": 0.8182,
+      "Briar": 0.6471,
+      "K'Sante": 0.5614,
+      "Shen": 0.65,
+      "Veigar": 0.66,
+      "Orianna": 0.56
+    },
+    "counters": {
+      "Jayce": 0.5847,
+      "Evelynn": 0.62,
+      "Briar": 0.61,
+      "Vi": 0.58
+    },
+    "combos": []
+  },
+  "Senna": {
+    "tags": [
+      "dps",
+      "peel",
+      "scaling",
+      "teamfight",
+      "vision"
+    ],
+    "damage": "ad",
+    "range": "ranged",
+    "difficulty": 7,
+    "blind": 6,
+    "flex_roles": [
+      "support"
+    ],
+    "synergy": {
+      "Skarner": 0.7,
+      "Amumu": 0.58,
+      "Nidalee": 0.58,
+      "Ekko": 0.54,
+      "Talon": 0.55,
+      "Vel'Koz": 0.67,
+      "Yasuo": 0.57,
+      "Swain": 0.56
+    },
+    "counters": {
+      "Zilean": 0.57,
+      "Alistar": 0.58,
+      "Lulu": 0.55
+    },
+    "combos": []
+  },
+  "Seraphine": {
+    "tags": [
+      "peel",
+      "poke",
+      "vision",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 0,
+    "blind": 7,
+    "flex_roles": [
+      "support",
+      "mid"
+    ],
+    "synergy": {
+      "Graves": 0.56,
+      "Zed": 0.54,
+      "Shyvana": 0.66,
+      "Morgana": 0.72,
+      "Aphelios": 0.7,
+      "Milio": 0.69,
+      "Sona": 0.57
+    },
+    "counters": {
+      "Taric": 0.62
+    },
+    "combos": [
+      {
+        "name": "aoe_teamfight_shell",
+        "champs": [
+          "Seraphine",
+          "Galio"
+        ],
+        "value": 4
+      }
+    ]
+  },
+  "Sett": {
+    "tags": [
+      "dps",
+      "engage",
+      "frontline",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 2,
+    "blind": 7,
+    "flex_roles": [
+      "top",
+      "jungle",
+      "support"
+    ],
+    "synergy": {
+      "Rek'Sai": 0.6531,
+      "Ambessa": 0.5882,
+      "Master Yi": 0.5875
+    },
+    "counters": {},
+    "combos": []
+  },
+  "Shaco": {
+    "tags": [
+      "burst",
+      "dive",
+      "pick"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 9,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ],
+    "synergy": {
+      "Volibear": 0.5577,
+      "Vladimir": 0.6167,
+      "Udyr": 0.6316,
+      "Nasus": 0.57,
+      "Kindred": 0.71,
+      "Zilean": 0.6,
+      "Rakan": 0.6,
+      "Maokai": 0.57,
+      "Master Yi": 0.56,
+      "Katarina": 0.57,
+      "Hwei": 0.59,
+      "Tristana": 0.68,
+      "Miss Fortune": 0.56,
+      "Kai'Sa": 0.54,
+      "Jhin": 0.54
+    },
+    "counters": {
+      "Seraphine": 0.54,
+      "Brand": 0.59,
+      "Zilean": 0.58,
+      "Rell": 0.59,
+      "Blitzcrank": 0.55,
+      "Alistar": 0.65
+    },
+    "combos": []
+  },
+  "Shen": {
+    "tags": [
+      "engage",
+      "frontline",
+      "teamfight"
+    ],
+    "damage": "mixed",
+    "range": "melee",
+    "difficulty": 4,
+    "blind": 7,
+    "flex_roles": [
+      "top"
+    ],
+    "synergy": {
+      "Sejuani": 0.65,
+      "Dr. Mundo": 0.64,
+      "Lillia": 0.6
+    },
+    "counters": {},
+    "combos": []
+  },
+  "Shyvana": {
+    "tags": [
+      "dps",
+      "poke",
+      "teamfight",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "melee",
+    "difficulty": 4,
+    "blind": 6,
+    "flex_roles": [
+      "mid"
+    ],
+    "synergy": {
+      "Urgot": 0.65,
+      "Cho'Gath": 0.6667,
+      "Udyr": 0.7143,
+      "Taric": 0.83,
+      "Seraphine": 0.66,
+      "Xerath": 0.59,
+      "Vex": 0.62
+    },
+    "counters": {
+      "Fiddlesticks": 0.59,
+      "Shaco": 0.56,
+      "Lillia": 0.67
+    },
+    "combos": []
+  },
+  "Singed": {
+    "tags": [
+      "engage",
+      "frontline",
+      "poke",
+      "teamfight",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "melee",
+    "difficulty": 5,
+    "blind": 7,
+    "flex_roles": [
+      "mid"
+    ],
+    "synergy": {
+      "Rammus": 0.65,
+      "Evelynn": 0.64,
+      "Taric": 0.74
+    },
+    "counters": {
+      "Darius": 0.59,
+      "Kled": 0.661,
+      "Gwen": 0.5825,
+      "Sion": 0.5844,
+      "Aatrox": 0.5747,
+      "Gragas": 0.6182,
+      "Irelia": 0.6212
+    },
+    "combos": []
+  },
+  "Sion": {
+    "tags": [
+      "dps",
+      "engage",
+      "frontline",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 5,
+    "blind": 7,
+    "flex_roles": [
+      "top"
+    ],
+    "synergy": {},
+    "counters": {
+      "Malphite": 0.58
+    },
+    "combos": []
+  },
+  "Sivir": {
+    "tags": [
+      "dps",
+      "scaling",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "ranged",
+    "difficulty": 4,
+    "blind": 5,
+    "flex_roles": [
+      "adc"
+    ],
+    "synergy": {
+      "Rell": 0.57,
+      "Braum": 0.55,
+      "Leona": 0.54
+    },
+    "counters": {
+      "Ezreal": 0.56,
+      "Miss Fortune": 0.54
+    },
+    "combos": []
+  },
+  "Skarner": {
+    "tags": [
+      "dps",
+      "engage",
+      "frontline",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 5,
+    "blind": 7,
+    "flex_roles": [
+      "top"
+    ],
+    "synergy": {
+      "Senna": 0.7,
+      "Karma": 0.66,
+      "Pyke": 0.64,
+      "Azir": 0.69
+    },
+    "counters": {},
+    "combos": []
+  },
+  "Smolder": {
+    "tags": [
+      "dps",
+      "poke",
+      "scaling",
+      "teamfight",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 6,
+    "blind": 5,
+    "flex_roles": [
+      "adc"
+    ],
+    "synergy": {
+      "Master Yi": 0.55,
+      "Evelynn": 0.55,
+      "Volibear": 0.54
+    },
+    "counters": {
+      "Galio": 0.58
+    },
+    "combos": []
+  },
+  "Sona": {
+    "tags": [
+      "peel",
+      "poke",
+      "vision",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 4,
+    "blind": 7,
+    "flex_roles": [
+      "support"
+    ],
+    "synergy": {
+      "Samira": 0.56,
+      "Kalista": 0.64,
+      "Ziggs": 0.61,
+      "Seraphine": 0.57,
+      "Nilah": 0.56
+    },
+    "counters": {
+      "Swain": 0.5871,
+      "Nami": 0.53,
+      "Zyra": 0.58,
+      "Brand": 0.61,
+      "Janna": 0.52
+    },
+    "combos": []
+  },
+  "Soraka": {
+    "tags": [
+      "peel",
+      "poke",
+      "vision",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 3,
+    "blind": 7,
+    "flex_roles": [
+      "support"
+    ],
+    "synergy": {
+      "Evelynn": 0.57,
+      "Jarvan IV": 0.56,
+      "Kayn": 0.55,
+      "Ashe": 0.55,
+      "Tristana": 0.57,
+      "Nilah": 0.54
+    },
+    "counters": {
+      "Morgana": 0.58,
+      "Leona": 0.54,
+      "Rakan": 0.59
+    },
+    "combos": []
+  },
+  "Swain": {
+    "tags": [
+      "peel",
+      "poke",
+      "vision",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 8,
+    "blind": 7,
+    "flex_roles": [
+      "mid",
+      "adc",
+      "support"
+    ],
+    "synergy": {
+      "Xin Zhao": 0.71,
+      "Udyr": 0.71,
+      "Trundle": 0.69,
+      "Vi": 0.56,
+      "Taric": 0.68,
+      "Leona": 0.56,
+      "Thresh": 0.55,
+      "Maokai": 0.66,
+      "Rell": 0.58,
+      "Pyke": 0.56,
+      "Rakan": 0.62,
+      "Nautilus": 0.54,
+      "Blitzcrank": 0.53,
+      "Karma": 0.55,
+      "Bard": 0.57,
+      "Alistar": 0.53,
+      "Senna": 0.56
+    },
+    "counters": {
+      "Riven": 0.6111,
+      "Teemo": 0.7308,
+      "Qiyana": 0.57,
+      "Kassadin": 0.56,
+      "Akshan": 0.61,
+      "Ahri": 0.62,
+      "Malzahar": 0.56,
+      "Galio": 0.61,
+      "Corki": 0.71,
+      "Tristana": 0.61,
+      "Smolder": 0.52,
+      "Nilah": 0.6,
+      "Twitch": 0.54,
+      "Jinx": 0.53,
+      "Sivir": 0.54,
+      "Lucian": 0.54,
+      "Ashe": 0.56,
+      "Caitlyn": 0.56,
+      "Aphelios": 0.56,
+      "Samira": 0.58,
+      "Zeri": 0.58,
+      "Xayah": 0.64,
+      "Yunara": 0.55,
+      "Kalista": 0.6,
+      "Draven": 0.66,
+      "Kai'Sa": 0.58,
+      "Nautilus": 0.56,
+      "Alistar": 0.58
+    },
+    "combos": []
+  },
+  "Sylas": {
+    "tags": [
+      "burst",
+      "dive",
+      "pick",
+      "poke",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "melee",
+    "difficulty": 5,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ],
+    "synergy": {
+      "Graves": 0.5876,
+      "Ivern": 0.5789,
+      "Taliyah": 0.5745,
+      "Yasuo": 0.6339
+    },
+    "counters": {
+      "Malphite": 0.57,
+      "Pyke": 0.55
+    },
+    "combos": []
+  },
+  "Syndra": {
+    "tags": [
+      "poke",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 8,
+    "blind": 6,
+    "flex_roles": [
+      "mid"
+    ],
+    "synergy": {
+      "Jax": 0.57,
+      "Aatrox": 0.56,
+      "Ivern": 0.55
+    },
+    "counters": {},
+    "combos": []
+  },
+  "Tahm Kench": {
+    "tags": [
+      "engage",
+      "frontline",
+      "peel",
+      "teamfight",
+      "vision"
+    ],
+    "damage": "mixed",
+    "range": "melee",
+    "difficulty": 5,
+    "blind": 8,
+    "flex_roles": [
+      "support"
+    ],
+    "synergy": {
+      "Udyr": 0.6667,
+      "Qiyana": 0.6296,
+      "Bel'Veth": 0.625,
+      "Fiddlesticks": 0.59,
+      "Briar": 0.61,
+      "Ashe": 0.55,
+      "Kalista": 0.62,
+      "Ezreal": 0.52
+    },
+    "counters": {
+      "Nasus": 0.5714,
+      "Gragas": 0.5862,
+      "Neeko": 0.61
+    },
+    "combos": []
+  },
+  "Taliyah": {
+    "tags": [
+      "peel",
+      "poke",
+      "vision",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 5,
+    "blind": 7,
+    "flex_roles": [
+      "jungle",
+      "mid"
+    ],
+    "synergy": {
+      "Sylas": 0.5745,
+      "Poppy": 0.64,
+      "Braum": 0.55,
+      "Zyra": 0.54
+    },
+    "counters": {
+      "Volibear": 0.5857,
+      "Kayn": 0.64
+    },
+    "combos": []
+  },
+  "Talon": {
+    "tags": [
+      "burst",
+      "dive",
+      "pick"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 7,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ],
+    "synergy": {
+      "Anivia": 0.88,
+      "Aatrox": 0.5544,
+      "Teemo": 0.65,
+      "Senna": 0.55,
+      "Braum": 0.55,
+      "Zilean": 0.54
+    },
+    "counters": {
+      "Anivia": 0.5474,
+      "Aurora": 0.6023,
+      "Volibear": 0.5433,
+      "Akali": 0.5672,
+      "Zoe": 0.57,
+      "Xerath": 0.6,
+      "Veigar": 0.57,
+      "Viktor": 0.57,
+      "Mel": 0.63
+    },
+    "combos": []
+  },
+  "Taric": {
+    "tags": [
+      "engage",
+      "frontline",
+      "peel",
+      "teamfight",
+      "vision"
+    ],
+    "damage": "mixed",
+    "range": "melee",
+    "difficulty": 3,
+    "blind": 8,
+    "flex_roles": [
+      "support"
+    ],
+    "synergy": {
+      "Bel'Veth": 0.62,
+      "Lee Sin": 0.55,
+      "Nocturne": 0.63,
+      "Hecarim": 0.58,
+      "Lillia": 0.67,
+      "Xin Zhao": 0.59,
+      "Shyvana": 0.83,
+      "Vi": 0.59,
+      "Viego": 0.52,
+      "Qiyana": 0.65,
+      "Jinx": 0.56,
+      "Twitch": 0.61,
+      "Lucian": 0.55,
+      "Zeri": 0.6,
+      "Singed": 0.74,
+      "Swain": 0.68
+    },
+    "counters": {
+      "Pantheon": 0.6316,
+      "Swain": 0.5806,
+      "Sona": 0.55,
+      "Maokai": 0.68,
+      "Zilean": 0.62,
+      "Rell": 0.58,
+      "Blitzcrank": 0.59,
+      "Yuumi": 0.68
+    },
+    "combos": []
+  },
+  "Teemo": {
+    "tags": [
+      "dps",
+      "poke",
+      "scaling",
+      "teamfight",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 6,
+    "blind": 5,
+    "flex_roles": [
+      "top",
+      "adc"
+    ],
+    "synergy": {
+      "Talon": 0.65,
+      "Naafiri": 0.65,
+      "Ivern": 0.62
+    },
+    "counters": {},
+    "combos": []
+  },
+  "Thresh": {
+    "tags": [
+      "engage",
+      "frontline",
+      "peel",
+      "teamfight",
+      "vision"
+    ],
+    "damage": "mixed",
+    "range": "ranged",
+    "difficulty": 7,
+    "blind": 8,
+    "flex_roles": [
+      "support"
+    ],
+    "synergy": {
+      "Nilah": 0.6,
+      "Caitlyn": 0.52,
+      "Ziggs": 0.57,
+      "Swain": 0.55
+    },
+    "counters": {
+      "Senna": 0.54
+    },
+    "combos": []
+  },
+  "Tristana": {
+    "tags": [
+      "burst",
+      "dive",
+      "dps",
+      "pick",
+      "scaling",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "ranged",
+    "difficulty": 4,
+    "blind": 3,
+    "flex_roles": [
+      "adc"
+    ],
+    "synergy": {
+      "Rammus": 0.8,
+      "Amumu": 0.69,
+      "Shaco": 0.68,
+      "Soraka": 0.57,
+      "Lulu": 0.53,
+      "Yuumi": 0.56
+    },
+    "counters": {
+      "Miss Fortune": 0.54,
+      "Jhin": 0.55
+    },
+    "combos": []
+  },
+  "Trundle": {
+    "tags": [
+      "dps",
+      "engage",
+      "frontline",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 5,
+    "blind": 7,
+    "flex_roles": [
+      "top"
+    ],
+    "synergy": {
+      "Aatrox": 0.6842,
+      "Volibear": 0.6026,
+      "Hecarim": 0.6,
+      "Swain": 0.69
+    },
+    "counters": {
+      "Gwen": 0.5862
+    },
+    "combos": []
+  },
+  "Tryndamere": {
+    "tags": [
+      "burst",
+      "dive",
+      "dps",
+      "pick",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 5,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ],
+    "synergy": {
+      "Rammus": 0.6,
+      "Evelynn": 0.5783,
+      "Jax": 0.5636
+    },
+    "counters": {
+      "Shen": 0.6044
+    },
+    "combos": []
+  },
+  "Twisted Fate": {
+    "tags": [
+      "dps",
+      "poke",
+      "scaling",
+      "teamfight",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 9,
+    "blind": 5,
+    "flex_roles": [
+      "adc"
+    ],
+    "synergy": {
+      "Dr. Mundo": 0.59,
+      "Evelynn": 0.58,
+      "Ivern": 0.57
+    },
+    "counters": {},
+    "combos": []
+  },
+  "Twitch": {
+    "tags": [
+      "burst",
+      "dive",
+      "dps",
+      "pick",
+      "scaling",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "ranged",
+    "difficulty": 6,
+    "blind": 5,
+    "flex_roles": [
+      "adc"
+    ],
+    "synergy": {
+      "Taric": 0.61,
+      "Renata Glasc": 0.57,
+      "Braum": 0.56,
+      "Lulu": 0.53,
+      "Alistar": 0.56,
+      "Milio": 0.52
+    },
+    "counters": {
+      "Miss Fortune": 0.54,
+      "Jinx": 0.53,
+      "Sivir": 0.55,
+      "Ashe": 0.54,
+      "Jhin": 0.54
+    },
+    "combos": []
+  },
+  "Udyr": {
+    "tags": [
+      "dps",
+      "engage",
+      "frontline",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 7,
+    "blind": 7,
+    "flex_roles": [
+      "top"
+    ],
+    "synergy": {
+      "Ornn": 0.62,
+      "Riven": 0.58,
+      "Aatrox": 0.584,
+      "Jayce": 0.6038,
+      "Camille": 0.7018,
+      "Warwick": 0.64,
+      "Yasuo": 0.6087,
+      "Malphite": 0.5417,
+      "Shyvana": 0.7143,
+      "Shaco": 0.6316,
+      "Graves": 0.6154,
+      "Tahm Kench": 0.6667,
+      "Ambessa": 0.5443,
+      "Swain": 0.71,
+      "Katarina": 0.57,
+      "Ziggs": 0.69,
+      "Corki": 0.67
+    },
+    "counters": {
+      "Wukong": 0.6136,
+      "Volibear": 0.5407,
+      "Rek'Sai": 0.63,
+      "Hecarim": 0.64,
+      "Vi": 0.63
+    },
+    "combos": []
+  },
+  "Urgot": {
+    "tags": [
+      "dps",
+      "engage",
+      "frontline",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "ranged",
+    "difficulty": 8,
+    "blind": 7,
+    "flex_roles": [
+      "jungle"
+    ],
+    "synergy": {
+      "Shyvana": 0.65,
+      "Vi": 0.64,
+      "Sejuani": 0.62
+    },
+    "counters": {
+      "Garen": 0.5705
+    },
+    "combos": []
+  },
+  "Varus": {
+    "tags": [
+      "dps",
+      "poke",
+      "scaling",
+      "teamfight",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 2,
+    "blind": 5,
+    "flex_roles": [
+      "adc"
+    ],
+    "synergy": {
+      "Sejuani": 0.67,
+      "Rammus": 0.65,
+      "Janna": 0.55
+    },
+    "counters": {
+      "Garen": 0.62,
+      "Quinn": 0.6267,
+      "Urgot": 0.5867,
+      "Shen": 0.6,
+      "Fiora": 0.596,
+      "Naafiri": 0.569,
+      "Zaahen": 0.597,
+      "Akali": 0.6,
+      "Camille": 0.5965,
+      "Ahri": 0.58,
+      "Kassadin": 0.62,
+      "Akshan": 0.62,
+      "Malzahar": 0.62,
+      "Annie": 0.69,
+      "Twitch": 0.53
+    },
+    "combos": []
+  },
+  "Vayne": {
+    "tags": [
+      "burst",
+      "dive",
+      "dps",
+      "pick",
+      "scaling",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "ranged",
+    "difficulty": 8,
+    "blind": 3,
+    "flex_roles": [
+      "top",
+      "adc"
+    ],
+    "synergy": {
+      "Rammus": 0.5902,
+      "Malphite": 0.5629,
+      "Xin Zhao": 0.5545,
+      "Zilean": 0.58
+    },
+    "counters": {
+      "Darius": 0.59,
+      "Fiora": 0.609,
+      "Zaahen": 0.569,
+      "Ezreal": 0.56,
+      "Sivir": 0.54
+    },
+    "combos": []
+  },
+  "Veigar": {
+    "tags": [
+      "poke",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 7,
+    "blind": 6,
+    "flex_roles": [
+      "mid"
+    ],
+    "synergy": {
+      "Sejuani": 0.66,
+      "Evelynn": 0.64,
+      "Bel'Veth": 0.59,
+      "Nami": 0.61,
+      "Bard": 0.64,
+      "Alistar": 0.55
+    },
+    "counters": {
+      "Akali": 0.57,
+      "Akshan": 0.62,
+      "Twisted Fate": 0.56,
+      "Viktor": 0.59,
+      "Galio": 0.6,
+      "Draven": 0.71
+    },
+    "combos": []
+  },
+  "Vel'Koz": {
+    "tags": [
+      "peel",
+      "poke",
+      "vision",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 8,
+    "blind": 7,
+    "flex_roles": [
+      "support"
+    ],
+    "synergy": {
+      "Rengar": 0.59,
+      "Kindred": 0.61,
+      "Nocturne": 0.55,
+      "Vi": 0.55,
+      "Nunu & Willump": 0.61,
+      "Wukong": 0.61,
+      "Graves": 0.61,
+      "Kog'Maw": 0.74,
+      "Senna": 0.67
+    },
+    "counters": {
+      "Zyra": 0.56,
+      "Seraphine": 0.55,
+      "Taliyah": 0.67,
+      "Kassadin": 0.58,
+      "Syndra": 0.58,
+      "Fizz": 0.59,
+      "Viktor": 0.55,
+      "LeBlanc": 0.59,
+      "Azir": 0.64,
+      "Karma": 0.55,
+      "Bard": 0.59,
+      "Lulu": 0.56
+    },
+    "combos": []
+  },
+  "Vex": {
+    "tags": [
+      "poke",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 0,
+    "blind": 6,
+    "flex_roles": [
+      "mid"
+    ],
+    "synergy": {
+      "Rammus": 0.67,
+      "Shyvana": 0.62,
+      "Elise": 0.59
+    },
+    "counters": {
+      "Akali": 0.5746,
+      "Qiyana": 0.57,
+      "Taliyah": 0.58,
+      "Katarina": 0.55,
+      "Azir": 0.67
+    },
+    "combos": []
+  },
+  "Vi": {
+    "tags": [
+      "burst",
+      "dive",
+      "dps",
+      "pick",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 4,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ],
+    "synergy": {
+      "Quinn": 0.7,
+      "Urgot": 0.64,
+      "Taric": 0.59,
+      "Swain": 0.56,
+      "Vel'Koz": 0.55,
+      "Neeko": 0.71,
+      "Lux": 0.58
+    },
+    "counters": {
+      "Skarner": 0.71
+    },
+    "combos": []
+  },
+  "Viego": {
+    "tags": [
+      "burst",
+      "dive",
+      "dps",
+      "pick",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 5,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ],
+    "synergy": {
+      "Taric": 0.52,
+      "Rell": 0.52,
+      "Braum": 0.52
+    },
+    "counters": {},
+    "combos": []
+  },
+  "Viktor": {
+    "tags": [
+      "poke",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 9,
+    "blind": 6,
+    "flex_roles": [
+      "mid"
+    ],
+    "synergy": {
+      "Ivern": 0.64,
+      "Rek'Sai": 0.59,
+      "Rammus": 0.59
+    },
+    "counters": {},
+    "combos": []
+  },
+  "Vladimir": {
+    "tags": [
+      "dps",
+      "poke",
+      "teamfight",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 7,
+    "blind": 6,
+    "flex_roles": [
+      "mid"
+    ],
+    "synergy": {
+      "Shaco": 0.6167,
+      "Briar": 0.6118,
+      "Xin Zhao": 0.6098
+    },
+    "counters": {
+      "Kennen": 0.5641
+    },
+    "combos": []
+  },
+  "Volibear": {
+    "tags": [
+      "dps",
+      "engage",
+      "frontline",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 3,
+    "blind": 7,
+    "flex_roles": [
+      "top"
+    ],
+    "synergy": {
+      "Garen": 0.5888,
+      "Irelia": 0.5767,
+      "Bel'Veth": 0.597,
+      "Fiddlesticks": 0.5664,
+      "Shaco": 0.5577,
+      "Trundle": 0.6026,
+      "Aurelion Sol": 0.61,
+      "Ziggs": 0.72,
+      "Smolder": 0.54
+    },
+    "counters": {
+      "Zac": 0.56,
+      "Diana": 0.56,
+      "Fiddlesticks": 0.63,
+      "Lee Sin": 0.57
+    },
+    "combos": []
+  },
+  "Warwick": {
+    "tags": [
+      "dps",
+      "engage",
+      "frontline",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 3,
+    "blind": 7,
+    "flex_roles": [
+      "top"
+    ],
+    "synergy": {
+      "Kayle": 0.6,
+      "Nocturne": 0.6667,
+      "Master Yi": 0.6552,
+      "Udyr": 0.64,
+      "Akshan": 0.61,
+      "Orianna": 0.59
+    },
+    "counters": {
+      "Sett": 0.5714,
+      "Irelia": 0.61,
+      "Talon": 0.58
+    },
+    "combos": []
+  },
+  "Xayah": {
+    "tags": [
+      "dps",
+      "scaling",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "ranged",
+    "difficulty": 5,
+    "blind": 5,
+    "flex_roles": [
+      "adc"
+    ],
+    "synergy": {
+      "Zyra": 0.58,
+      "Zilean": 0.56,
+      "Leona": 0.55
+    },
+    "counters": {
+      "Corki": 0.59
+    },
+    "combos": []
+  },
+  "Xerath": {
+    "tags": [
+      "peel",
+      "poke",
+      "vision",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 8,
+    "blind": 7,
+    "flex_roles": [
+      "support"
+    ],
+    "synergy": {
+      "Master Yi": 0.55,
+      "Graves": 0.56,
+      "Shyvana": 0.59,
+      "Bel'Veth": 0.63,
+      "Amumu": 0.59,
+      "Evelynn": 0.59
+    },
+    "counters": {
+      "Swain": 0.6265,
+      "Morgana": 0.59,
+      "Orianna": 0.61,
+      "Janna": 0.56
+    },
+    "combos": []
+  },
+  "Xin Zhao": {
+    "tags": [
+      "dps",
+      "engage",
+      "frontline",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 2,
+    "blind": 7,
+    "flex_roles": [
+      "top"
+    ],
+    "synergy": {
+      "Kled": 0.69,
+      "Vayne": 0.5545,
+      "Vladimir": 0.6098,
+      "Swain": 0.71,
+      "Maokai": 0.62,
+      "Taric": 0.59,
+      "Janna": 0.54,
+      "Hwei": 0.58
+    },
+    "counters": {
+      "Elise": 0.59,
+      "Amumu": 0.6,
+      "Shaco": 0.58
+    },
+    "combos": []
+  },
+  "Yasuo": {
+    "tags": [
+      "burst",
+      "dive",
+      "dps",
+      "pick",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 10,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ],
+    "synergy": {
+      "Ivern": 0.6757,
+      "Sylas": 0.6339,
+      "Udyr": 0.6087,
+      "Janna": 0.59,
+      "Maokai": 0.72,
+      "Blitzcrank": 0.54,
+      "Senna": 0.57
+    },
+    "counters": {
+      "Varus": 0.57,
+      "Rumble": 0.5784,
+      "Kog'Maw": 0.65
+    },
+    "combos": []
+  },
+  "Yone": {
+    "tags": [
+      "burst",
+      "dive",
+      "dps",
+      "pick",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 8,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ],
+    "synergy": {
+      "Ivern": 0.6032,
+      "Rek'Sai": 0.5726,
+      "Amumu": 0.5591
+    },
+    "counters": {
+      "Dr. Mundo": 0.583
+    },
+    "combos": []
+  },
+  "Yorick": {
+    "tags": [
+      "dps",
+      "engage",
+      "frontline",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 6,
+    "blind": 7,
+    "flex_roles": [
+      "top"
+    ],
+    "synergy": {
+      "Sejuani": 0.5926,
+      "Nidalee": 0.5735,
+      "Evelynn": 0.5701
+    },
+    "counters": {
+      "Urgot": 0.5702
+    },
+    "combos": []
+  },
+  "Yunara": {
+    "tags": [
+      "dps",
+      "scaling",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "ranged",
+    "difficulty": 4,
+    "blind": 5,
+    "flex_roles": [
+      "adc"
+    ],
+    "synergy": {
+      "Braum": 0.54,
+      "Elise": 0.53,
+      "Blitzcrank": 0.51
+    },
+    "counters": {},
+    "combos": []
+  },
+  "Yuumi": {
+    "tags": [
+      "peel",
+      "poke",
+      "vision",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 2,
+    "blind": 7,
+    "flex_roles": [
+      "support"
+    ],
+    "synergy": {
+      "Lucian": 0.53,
+      "Tristana": 0.56,
+      "Katarina": 0.55,
+      "Nilah": 0.54
+    },
+    "counters": {},
+    "combos": []
+  },
+  "Zaahen": {
+    "tags": [
+      "burst",
+      "dive",
+      "dps",
+      "pick",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 2,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ],
+    "synergy": {
+      "Quinn": 0.72,
+      "Nunu & Willump": 0.5833,
+      "Kindred": 0.5702,
+      "Karthus": 0.5683
+    },
+    "counters": {},
+    "combos": []
+  },
+  "Zac": {
+    "tags": [
+      "dps",
+      "engage",
+      "frontline",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 8,
+    "blind": 7,
+    "flex_roles": [
+      "top"
+    ],
+    "synergy": {
+      "Riven": 0.59,
+      "Ivern": 0.6875,
+      "Naafiri": 0.6667,
+      "Rek'Sai": 0.6452,
+      "Darius": 0.5897,
+      "Akshan": 0.61,
+      "Ahri": 0.57,
+      "Malzahar": 0.55,
+      "Galio": 0.55
+    },
+    "counters": {
+      "Poppy": 0.6522,
+      "Skarner": 0.66,
+      "Bel'Veth": 0.57
+    },
+    "combos": []
+  },
+  "Zed": {
+    "tags": [
+      "burst",
+      "dive",
+      "pick"
+    ],
+    "damage": "ad",
+    "range": "melee",
+    "difficulty": 7,
+    "blind": 4,
+    "flex_roles": [
+      "mid"
+    ],
+    "synergy": {
+      "Elise": 0.55,
+      "Neeko": 0.55,
+      "Seraphine": 0.54
+    },
+    "counters": {},
+    "combos": []
+  },
+  "Zeri": {
+    "tags": [
+      "dps",
+      "scaling",
+      "teamfight"
+    ],
+    "damage": "ad",
+    "range": "ranged",
+    "difficulty": 6,
+    "blind": 5,
+    "flex_roles": [
+      "adc"
+    ],
+    "synergy": {
+      "Neeko": 0.66,
+      "Taric": 0.6,
+      "Leona": 0.58
+    },
+    "counters": {
+      "Twitch": 0.54,
+      "Teemo": 0.55,
+      "Nilah": 0.52,
+      "Kalista": 0.66
+    },
+    "combos": []
+  },
+  "Ziggs": {
+    "tags": [
+      "poke",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 4,
+    "blind": 6,
+    "flex_roles": [
+      "mid",
+      "adc"
+    ],
+    "synergy": {
+      "Volibear": 0.72,
+      "Nunu & Willump": 0.7,
+      "Udyr": 0.69,
+      "Janna": 0.6,
+      "Zilean": 0.58,
+      "Sona": 0.61,
+      "Thresh": 0.57,
+      "Rell": 0.57,
+      "Pyke": 0.6,
+      "Bard": 0.53
+    },
+    "counters": {
+      "Varus": 0.55,
+      "Twitch": 0.56,
+      "Jinx": 0.53,
+      "Caitlyn": 0.56,
+      "Aphelios": 0.56,
+      "Yunara": 0.57,
+      "Ezreal": 0.57
+    },
+    "combos": []
+  },
+  "Zilean": {
+    "tags": [
+      "peel",
+      "poke",
+      "vision",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 6,
+    "blind": 7,
+    "flex_roles": [
+      "support"
+    ],
+    "synergy": {
+      "Evelynn": 0.71,
+      "Diana": 0.56,
+      "Shaco": 0.6,
+      "Jarvan IV": 0.55,
+      "Talon": 0.54,
+      "Jinx": 0.55,
+      "Ashe": 0.55,
+      "Aphelios": 0.55,
+      "Samira": 0.56,
+      "Xayah": 0.56,
+      "Vayne": 0.58,
+      "Ziggs": 0.58
+    },
+    "counters": {
+      "Neeko": 0.6,
+      "Janna": 0.55,
+      "Maokai": 0.63
+    },
+    "combos": []
+  },
+  "Zoe": {
+    "tags": [
+      "poke",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 5,
+    "blind": 6,
+    "flex_roles": [
+      "mid"
+    ],
+    "synergy": {
+      "Fiddlesticks": 0.62,
+      "Kindred": 0.6,
+      "Rammus": 0.59
+    },
+    "counters": {
+      "Vex": 0.59,
+      "Veigar": 0.59,
+      "Mel": 0.64
+    },
+    "combos": []
+  },
+  "Zyra": {
+    "tags": [
+      "peel",
+      "poke",
+      "vision",
+      "waveclear"
+    ],
+    "damage": "ap",
+    "range": "ranged",
+    "difficulty": 7,
+    "blind": 7,
+    "flex_roles": [
+      "support"
+    ],
+    "synergy": {
+      "Pantheon": 0.7,
+      "Renekton": 0.5844,
+      "Sejuani": 0.8571,
+      "K'Sante": 0.5625,
+      "Galio": 0.64,
+      "Poppy": 0.62,
+      "Neeko": 0.61,
+      "Bel'Veth": 0.63,
+      "Lee Sin": 0.56,
+      "Briar": 0.6,
+      "Taliyah": 0.54,
+      "Corki": 0.77,
+      "Caitlyn": 0.53,
+      "Xayah": 0.58
+    },
+    "counters": {
+      "Poppy": 0.6667,
+      "Ivern": 0.62,
+      "Ekko": 0.58,
+      "Seraphine": 0.56,
+      "Taric": 0.63,
+      "Soraka": 0.54,
+      "Thresh": 0.54,
+      "Pyke": 0.58
+    },
+    "combos": []
+  }
+}

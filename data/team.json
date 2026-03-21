@@ -4,9 +4,10 @@
       "name": "Alex",
       "role": "top",
       "pool": [
-        { "champ": "Rumble", "comfort": 9, "role_fit": 9 },
-        { "champ": "Jayce", "comfort": 8, "role_fit": 8 },
-        { "champ": "Jax", "comfort": 8, "role_fit": 7 }
+        { "champ": "Darius", "comfort": 9, "role_fit": 9 },
+        { "champ": "Shen", "comfort": 8, "role_fit": 8 },
+        { "champ": "Garen", "comfort": 8, "role_fit": 9 },
+        { "champ": "Ambessa", "comfort": 7, "role_fit": 9 }
       ]
     },
     {
@@ -14,35 +15,60 @@
       "role": "jungle",
       "pool": [
         { "champ": "Xin zhao", "comfort": 9, "role_fit": 9 },
-        { "champ": "Wukong", "comfort": 8, "role_fit": 8 },
-        { "champ": "jarvan IV", "comfort": 8, "role_fit": 7 }
+        { "champ": "Pantheon", "comfort": 8, "role_fit": 8 },
+        { "champ": "Jarvan IV", "comfort": 8, "role_fit": 8 }
       ]
     },
     {
-      "name": "Roman",
+      "name": "Royce",
       "role": "mid",
       "pool": [
-        { "champ": "viktor", "comfort": 9, "role_fit": 9 },
-        { "champ": "aurora", "comfort": 9, "role_fit": 8 },
+        { "champ": "Yone", "comfort": 9, "role_fit": 9 },
+        { "champ": "Leblanc", "comfort": 9, "role_fit": 8 },
         { "champ": "galio", "comfort": 9, "role_fit": 7 }
       ]
     },
     {
-      "name": "lyfe",
+      "name": "Roman",
       "role": "adc",
       "pool": [
-        { "champ": "jhin", "comfort": 9, "role_fit": 9 },
-        { "champ": "caitlyn", "comfort": 9, "role_fit": 8 },
-        { "champ": "varus", "comfort": 8, "role_fit": 7 }
+        { "champ": "Kaisa", "comfort": 9, "role_fit": 9 },
+        { "champ": "Tristana", "comfort": 8, "role_fit": 9 },
+        { "champ": "Ezreal", "comfort": 8, "role_fit": 8 },
+        { "champ": "Caitlyn", "comfort": 8, "role_fit": 9 }
       ]
     },
     {
       "name": "naoemi",
       "role": "support",
       "pool": [
-        { "champ": "poppy", "comfort": 9, "role_fit": 9 },
-        { "champ": "elise", "comfort": 8, "role_fit": 8 },
-        { "champ": "lulu", "comfort": 8, "role_fit": 7 }
+        { "champ": "Zyra", "comfort": 9, "role_fit": 9 },
+        { "champ": "Brand", "comfort": 9, "role_fit": 8 },
+        { "champ": "Xerath", "comfort": 9, "role_fit": 8 },
+        { "champ": "Mel", "comfort": 8, "role_fit": 8 },
+
+        { "champ": "Pantheon", "comfort": 8, "role_fit": 8 },
+        { "champ": "Lux", "comfort": 9, "role_fit": 8 },
+        { "champ": "Morgana", "comfort": 9, "role_fit": 9 },
+        { "champ": "Senna", "comfort": 8, "role_fit": 9 },
+
+        { "champ": "Neeko", "comfort": 8, "role_fit": 8 },
+        { "champ": "Gragas", "comfort": 8, "role_fit": 6 },
+        { "champ": "Ashe", "comfort": 8, "role_fit": 8 },
+
+        { "champ": "Karma", "comfort": 9, "role_fit": 9 },
+        { "champ": "Seraphine", "comfort": 9, "role_fit": 9 },
+        { "champ": "Zilean", "comfort": 8, "role_fit": 9 },
+
+        { "champ": "Galio", "comfort": 8, "role_fit": 7 },
+        { "champ": "Thresh", "comfort": 9, "role_fit": 10 },
+        { "champ": "Nautilus", "comfort": 9, "role_fit": 10 },
+        { "champ": "Blitzcrank", "comfort": 8, "role_fit": 9 },
+
+        { "champ": "Sona", "comfort": 8, "role_fit": 9 },
+        { "champ": "Nami", "comfort": 9, "role_fit": 10 },
+        { "champ": "Milio", "comfort": 8, "role_fit": 10 },
+        { "champ": "Pyke", "comfort": 8, "role_fit": 9 }
       ]
     }
   ]

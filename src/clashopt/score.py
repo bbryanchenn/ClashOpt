@@ -114,7 +114,6 @@ def _wr_points(wr: float, games: int, k: float = 20.0) -> float:
     wr_s = (wr * games + 0.50 * k) / (games + k)
     return (wr_s - 0.50) * 100.0
 
-
 def build_counter_index(counters, canon, nm):
     pairs = counters.get("champ_vs_champ", [])
     by_target = defaultdict(list)  # b -> [(a, wr)]
@@ -127,6 +126,43 @@ def build_counter_index(counters, canon, nm):
         by_target[b].sort(key=lambda t: t[1], reverse=True)
     return by_target
 
+def _slots_from_team(team: list[str]) -> list[dict]:
+    return [{"champ": champ, "comfort": 0, "role_fit": 1} for champ in team]
+
+
+def compare_drafts(ctx, blue: list[str], red: list[str]) -> dict:
+    blue_slots = _slots_from_team(blue)
+    red_slots = _slots_from_team(red)
+
+    blue_res = score(ctx, blue_slots, red)
+    red_res = score(ctx, red_slots, blue)
+
+    blue_score = float(blue_res.get("score", 0.0))
+    red_score = float(red_res.get("score", 0.0))
+
+    total = blue_score + red_score
+    if total == 0:
+        win_pct = 50.0
+    else:
+        win_pct = 100.0 * blue_score / total
+
+    return {
+        "score": round(win_pct, 2),
+        "blue": {
+            "wincon": [blue_res.get("wincon", "none")],
+            "synergy": round(float(blue_res.get("synergy", 0.0)), 2),
+            "comfort": round(float(blue_res.get("comfort", 0.0)), 2),
+            "counter": round(float(blue_res.get("counter_risk", 0.0)), 2),
+            "summary": f"Wincon: {blue_res.get('wincon', 'none')}. Synergy {blue_res.get('synergy', 0.0):.2f}. Counter risk {blue_res.get('counter_risk', 0.0):.2f}.",
+        },
+        "red": {
+            "wincon": [red_res.get("wincon", "none")],
+            "synergy": round(float(red_res.get("synergy", 0.0)), 2),
+            "comfort": round(float(red_res.get("comfort", 0.0)), 2),
+            "counter": round(float(red_res.get("counter_risk", 0.0)), 2),
+            "summary": f"Wincon: {red_res.get('wincon', 'none')}. Synergy {red_res.get('synergy', 0.0):.2f}. Counter risk {red_res.get('counter_risk', 0.0):.2f}.",
+        },
+    }
 
 def counter_risk_for_comp(comp_champs, by_target, topn: int = 3) -> float:
     risks = []

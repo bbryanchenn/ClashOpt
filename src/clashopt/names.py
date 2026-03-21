@@ -13,7 +13,8 @@ ALIASES = {
     "velkoz": "Vel'Koz",
     "khazix": "Kha'Zix",
     "belveth": "Bel'Veth",
-    "kaisa": "Kai'Sa"
+    "kaisa": "Kai'Sa",
+    "j4": "Jarvan IV",
 }
 
 def norm(name: str) -> str:

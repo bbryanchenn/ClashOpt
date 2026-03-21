@@ -23,7 +23,7 @@ def _build_pools(ctx):
 
 def best_comps(ctx, topk: int, show: int, banned: set[str], enemy: list[str] | None):
     nm = build_name_map(ctx.champ_db)
-    banned = {canon(b, nm) for b in banned} if banned else set()
+    banned = set(canon(b, nm) for b in (banned or [])) 
     enemy = [canon(e, nm) for e in enemy] if enemy else None
 
     pools = _build_pools(ctx)
