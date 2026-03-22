@@ -1,10 +1,12 @@
-# Env
+# Env files
 discord/.env
 
-# Virtual env
+# Virtual environments
+.venv/
+venv/
 discord/.venv/
 
-# Pycache (global)
+# Pycache
 __pycache__/
 **/__pycache__/
 
