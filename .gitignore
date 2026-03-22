@@ -1,5 +1,12 @@
+# Env
 discord/.env
-discord/.env
+
+# Virtual env
 discord/.venv/
-src/__pycache__/
-discord/__pycache__/
+
+# Pycache (global)
+__pycache__/
+**/__pycache__/
+
+# Bytecode
+*.pyc
