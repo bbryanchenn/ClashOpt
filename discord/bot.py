@@ -62,7 +62,8 @@ class ClashBot(discord.Client):
             return
         try:
             ch = await self.fetch_channel(BOOT_CHANNEL_ID)
-            await ch.send("erm ok")
+            print("Faker is here to stay.")
+            # await ch.send("erm ok")
             # await ch.send("In the midlane... The Unkillable Demon King... FAKERRRRRRRRR" )
             # await ch.send("https://tenor.com/view/faker-unkillable-demon-king-t1-t1fight-lol-gif-7065924072719595842")
         except Exception as e:

@@ -1,6 +1,5 @@
 import discord
 from discord import app_commands
-from commands import DEFAULT_MODULES
 import aiohttp, os
 
 RIOT_API_KEY = os.getenv("RIOT_API_KEY")
@@ -24,6 +23,23 @@ ROUTING = {
     "vn2": "sea",
 }
 
+ROLE_EMOJIS = {
+    "TOP": 1484795247820144770,
+    "JUNGLE": 1484795126059630602,
+    "MIDDLE": 1484795186012749875,
+    "BOTTOM": 1484795279197605938,
+    "UTILITY": 1484795220666089642,
+}
+
+ROLE_LABELS = {
+    "TOP": "Top",
+    "JUNGLE": "Jungle",
+    "MIDDLE": "Mid",
+    "BOTTOM": "ADC",
+    "UTILITY": "Support",
+    "": "Unknown",
+}
+
 async def riot_get(session: aiohttp.ClientSession, url: str):
     async with session.get(url, headers={"X-Riot-Token": RIOT_API_KEY}) as r:
         if r.status != 200:
@@ -34,16 +50,28 @@ async def riot_get(session: aiohttp.ClientSession, url: str):
 def kda_str(k, d, a):
     return f"{k}/{d}/{a} ({((k + a) / max(1, d)):.2f})"
 
+def normalize_role(role: str) -> str:
+    role = (role or "").upper()
+    aliases = {
+        "MID": "MIDDLE",
+        "ADC": "BOTTOM",
+        "BOT": "BOTTOM",
+        "SUPPORT": "UTILITY",
+        "SUP": "UTILITY",
+    }
+    return aliases.get(role, role)
+
 def setup(tree: app_commands.CommandTree, bot, guild=None):
     if any(c.name == "recent" for c in tree.get_commands(guild=guild)):
         return
+
     @tree.command(name="recent", description="Show recent LoL match stats.", guild=guild)
     async def recent_cmd(
         interaction: discord.Interaction,
         summoner: str,
         tag: str,
         platform: str = "na1",
-        count: int = 3,
+        count: int = 5,
     ):
         platform = platform.lower()
         if platform not in ROUTING:
@@ -86,7 +114,14 @@ def setup(tree: app_commands.CommandTree, bot, guild=None):
 
                 win = "✅ Win" if p["win"] else "❌ Loss"
                 champ = p["championName"]
-                role = p.get("teamPosition") or p.get("individualPosition") or "?"
+
+                raw_role = p.get("teamPosition") or p.get("individualPosition") or ""
+                role_key = normalize_role(raw_role)
+                role_name = ROLE_LABELS.get(role_key, raw_role.title() if raw_role else "Unknown")
+
+                emoji_id = ROLE_EMOJIS.get(role_key)
+                emoji = bot.get_emoji(emoji_id) if emoji_id else None
+                emoji_str = str(emoji) if emoji else ""
 
                 k, d, a = p["kills"], p["deaths"], p["assists"]
                 cs = p["totalMinionsKilled"] + p.get("neutralMinionsKilled", 0)
@@ -96,7 +131,7 @@ def setup(tree: app_commands.CommandTree, bot, guild=None):
 
                 embeds.append(
                     discord.Embed(
-                        title=f"{win} — {champ} ({role})",
+                        title=f"{win} — {emoji_str} {champ}",
                         description=(
                             f"**KDA:** {kda_str(k,d,a)}\n"
                             f"**CS:** {cs} ({cs/max(1,mins):.1f}/min)\n"
