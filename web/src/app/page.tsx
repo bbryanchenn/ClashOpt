@@ -2,9 +2,8 @@
 
 import React, { useMemo, useState } from "react";
 import { motion } from "framer-motion";
-import { Swords, Shield, BarChart3, RefreshCcw } from "lucide-react";
+import { Swords, BarChart3, RefreshCcw } from "lucide-react";
 
-const emptyTeam = ["", "", "", "", ""];
 const roles = ["Top", "Jg", "Mid", "ADC", "Sup"];
 
 const sample = {
@@ -60,9 +59,9 @@ function Panel({
   children: React.ReactNode;
 }) {
   return (
-    <div className="rounded-2xl border border-white/10 bg-white/5 shadow-sm backdrop-blur">
+    <div className="rounded-2xl border border-[#C89B3C]/20 bg-[#091428]/75 shadow-[0_12px_40px_rgba(0,0,0,0.45)] backdrop-blur-xl">
       {title && (
-        <div className="border-b border-white/10 px-5 py-4 text-lg font-semibold">
+        <div className="border-b border-[#C89B3C]/20 px-5 py-4 text-lg font-semibold text-[#F0E6D2]">
           {title}
         </div>
       )}
@@ -73,7 +72,7 @@ function Panel({
 
 function Pill({ children }: { children: React.ReactNode }) {
   return (
-    <span className="rounded-full border border-white/10 bg-white/10 px-3 py-1 text-sm">
+    <span className="rounded-full border border-[#C89B3C]/40 bg-[#0A323C]/60 px-3 py-1 text-sm text-[#F0E6D2]">
       {children}
     </span>
   );
@@ -87,9 +86,9 @@ function StatCard({
   value: string | number;
 }) {
   return (
-    <div className="rounded-2xl border border-white/10 bg-white/5 p-5 shadow-sm">
-      <div className="text-sm text-white/60">{title}</div>
-      <div className="mt-2 text-2xl font-semibold">{value}</div>
+    <div className="rounded-2xl border border-[#C89B3C]/20 bg-gradient-to-b from-[#0A223D]/75 to-[#091428]/75 p-5 shadow-[inset_0_1px_0_rgba(255,255,255,0.06)]">
+      <div className="text-sm text-[#A09B8C]">{title}</div>
+      <div className="mt-2 text-2xl font-semibold text-[#F0E6D2]">{value}</div>
     </div>
   );
 }
@@ -108,7 +107,7 @@ function TeamEditor({
       <div className="space-y-3">
         {team.map((value, i) => (
           <div key={i} className="grid grid-cols-[72px_1fr] items-center gap-3">
-            <div className="text-sm text-white/60">{roles[i]}</div>
+            <div className="text-sm text-[#A09B8C]">{roles[i]}</div>
             <input
               value={value}
               placeholder={`Enter ${roles[i]} champ`}
@@ -117,7 +116,7 @@ function TeamEditor({
                 next[i] = e.target.value;
                 setTeam(next);
               }}
-              className="h-11 rounded-xl border border-white/10 bg-black/20 px-3 outline-none ring-0 placeholder:text-white/30 focus:border-white/30"
+              className="h-11 rounded-xl border border-[#C89B3C]/25 bg-[#0A1428]/80 px-3 text-[#F0E6D2] outline-none ring-0 placeholder:text-[#5B5A56] focus:border-[#C89B3C] focus:shadow-[0_0_0_3px_rgba(200,155,60,0.2)]"
             />
           </div>
         ))}
@@ -148,7 +147,7 @@ function SideBreakdown({
           <StatCard title="Counter" value={data.counter} />
         </div>
 
-        <div className="text-sm leading-6 text-white/70">{data.summary}</div>
+        <div className="text-sm leading-6 text-[#C8C3B5]">{data.summary}</div>
       </div>
     </Panel>
   );
@@ -196,24 +195,29 @@ export default function Page() {
   }
 
   return (
-    <div className="min-h-screen bg-[#0a0a0f] text-white">
-      <div className="mx-auto max-w-7xl px-6 py-10">
+    <div className="relative min-h-screen overflow-hidden bg-[#010A13] text-white">
+      <div className="pointer-events-none absolute inset-0">
+        <div className="absolute -left-24 top-0 h-80 w-80 rounded-full bg-[#005A82]/35 blur-3xl" />
+        <div className="absolute right-0 top-24 h-96 w-96 rounded-full bg-[#C89B3C]/20 blur-3xl" />
+        <div className="absolute bottom-0 left-1/3 h-72 w-72 rounded-full bg-[#0AC8B9]/10 blur-3xl" />
+      </div>
+      <div className="relative mx-auto max-w-7xl px-6 py-10">
         <motion.div
           initial={{ opacity: 0, y: 14 }}
           animate={{ opacity: 1, y: 0 }}
           className="flex flex-col gap-4 md:flex-row md:items-end md:justify-between"
         >
           <div>
-            <div className="mb-3 inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/5 px-3 py-1 text-sm text-white/70">
+            <div className="mb-3 inline-flex items-center gap-2 rounded-full border border-[#C89B3C]/30 bg-[#0A223D]/70 px-3 py-1 text-sm text-[#F0E6D2]">
               <Swords className="h-4 w-4" />
-              ClashOpt Web MVP
+              ClashOpt · Draft Intelligence
             </div>
-            <h1 className="text-4xl font-semibold tracking-tight">
-              Clash Opt. Now on da web. SUGOI!
+            <h1 className="bg-gradient-to-r from-[#F0E6D2] via-[#C8AA6E] to-[#F0E6D2] bg-clip-text text-4xl font-semibold tracking-tight text-transparent md:text-5xl">
+              Build Winning Drafts with Pro-Level Clarity
             </h1>
-            <p className="mt-2 max-w-2xl text-sm leading-6 text-white/60">
-              Enter both comps and compare win condition, synergy, and counter
-              pressure using your live ClashOpt backend.
+            <p className="mt-3 max-w-2xl text-sm leading-6 text-[#C8C3B5]">
+              Compare both sides instantly, surface win conditions, and spot
+              counter pressure with a premium League-inspired experience.
             </p>
           </div>
 
@@ -223,7 +227,7 @@ export default function Page() {
                 setBlue(sample.blue);
                 setRed(sample.red);
               }}
-              className="inline-flex h-11 items-center gap-2 rounded-2xl border border-white/10 bg-white/5 px-4 text-sm hover:bg-white/10"
+              className="inline-flex h-11 items-center gap-2 rounded-2xl border border-[#C89B3C]/30 bg-[#0A223D]/70 px-4 text-sm text-[#F0E6D2] hover:bg-[#0E3052]"
             >
               <RefreshCcw className="h-4 w-4" />
               Load Sample
@@ -232,7 +236,7 @@ export default function Page() {
             <button
               disabled={!ready || loading}
               onClick={compare}
-              className="inline-flex h-11 items-center rounded-2xl bg-white px-4 text-sm font-medium text-black disabled:cursor-not-allowed disabled:opacity-50"
+              className="inline-flex h-11 items-center rounded-2xl bg-gradient-to-r from-[#C89B3C] to-[#E0C27A] px-4 text-sm font-semibold text-[#091428] shadow-[0_10px_20px_rgba(200,155,60,0.25)] transition hover:brightness-105 disabled:cursor-not-allowed disabled:opacity-50"
             >
               {loading ? "Comparing..." : "Compare Drafts"}
             </button>
@@ -245,7 +249,7 @@ export default function Page() {
         </div>
 
         {error && (
-          <div className="mt-6 rounded-2xl border border-amber-500/20 bg-amber-500/10 p-4 text-sm text-amber-200">
+          <div className="mt-6 rounded-2xl border border-amber-300/40 bg-amber-500/10 p-4 text-sm text-amber-100">
             {error}
           </div>
         )}
@@ -275,7 +279,7 @@ export default function Page() {
             </div>
 
             <Panel title="Backend Status">
-              <div className="flex items-center gap-2 text-sm text-white/70">
+              <div className="flex items-center gap-2 text-sm text-[#C8C3B5]">
                 <BarChart3 className="h-4 w-4" />
                 Live endpoint: http://127.0.0.1:8000/compare
               </div>
