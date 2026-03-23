@@ -587,7 +587,10 @@
       "dive",
       "dps",
       "pick",
-      "teamfight"
+      "teamfight",
+      "splitpush",
+      "duelist",
+      "sidelane"
     ],
     "damage": "ad",
     "range": "melee",
@@ -962,7 +965,10 @@
       "dive",
       "dps",
       "pick",
-      "teamfight"
+      "teamfight",
+      "splitpush",
+      "duelist",
+      "sidelane"
     ],
     "damage": "ad",
     "range": "melee",
@@ -1186,7 +1192,10 @@
   "Gwen": {
     "tags": [
       "dps",
-      "teamfight"
+      "teamfight",
+      "splitpush",
+      "duelist",
+      "sidelane"
     ],
     "damage": "ad",
     "range": "melee",
@@ -1313,7 +1322,10 @@
       "dive",
       "dps",
       "pick",
-      "teamfight"
+      "teamfight",
+      "splitpush",
+      "duelist",
+      "sidelane"
     ],
     "damage": "ad",
     "range": "melee",
@@ -1451,7 +1463,10 @@
   "Jax": {
     "tags": [
       "dps",
-      "teamfight"
+      "teamfight",
+      "splitpush",
+      "duelist",
+      "sidelane"
     ],
     "damage": "ad",
     "range": "melee",
@@ -2472,7 +2487,10 @@
       "dps",
       "engage",
       "frontline",
-      "teamfight"
+       "teamfight",
+      "splitpush",
+      "duelist",
+      "sidelane"
     ],
     "damage": "ad",
     "range": "melee",
@@ -3140,7 +3158,10 @@
       "dive",
       "dps",
       "pick",
-      "teamfight"
+      "teamfight",
+      "splitpush",
+      "duelist",
+      "sidelane"
     ],
     "damage": "ad",
     "range": "melee",
@@ -3969,7 +3990,10 @@
       "dps",
       "engage",
       "frontline",
-      "teamfight"
+      "teamfight",
+      "splitpush",
+      "duelist",
+      "sidelane"
     ],
     "damage": "ad",
     "range": "melee",
@@ -3995,7 +4019,10 @@
       "dive",
       "dps",
       "pick",
-      "teamfight"
+      "teamfight",
+      "splitpush",
+      "duelist",
+      "sidelane"
     ],
     "damage": "ad",
     "range": "melee",
@@ -4583,7 +4610,10 @@
       "dive",
       "dps",
       "pick",
-      "teamfight"
+      "teamfight",
+      "splitpush",
+      "duelist",
+      "sidelane"
     ],
     "damage": "ad",
     "range": "melee",
@@ -4607,7 +4637,10 @@
       "dps",
       "engage",
       "frontline",
-      "teamfight"
+       "teamfight",
+      "splitpush",
+      "duelist",
+      "sidelane"
     ],
     "damage": "ad",
     "range": "melee",

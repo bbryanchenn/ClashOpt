@@ -19,12 +19,34 @@
     "min_mixed_damage": true
   },
   "wincons": {
-    "front_to_back": { "needs": ["frontline", "dps"], "wants": ["peel", "waveclear", "disengage", "scaling"] },
-    "dive":         { "needs": ["engage", "dive"], "wants": ["burst", "followup"] },
-    "poke":         { "needs": ["poke", "waveclear"], "wants": ["disengage", "siege"] },
-    "pick":         { "needs": ["pick"], "wants": ["burst", "vision"] },
-    "wombo":        { "needs": ["wombo", "engage"], "wants": ["followup", "teamfight"] },
-    "split":        { "needs": ["splitpush"], "wants": ["waveclear", "disengage"] }
+    "front_to_back": {
+      "needs": ["frontline", "dps"],
+      "wants": ["peel", "waveclear", "disengage", "scaling"]
+    },
+    "dive": {
+      "needs": ["engage", "dive"],
+      "wants": ["burst", "followup"]
+    },
+    "poke": {
+      "needs": ["poke", "waveclear"],
+      "wants": ["disengage", "siege"]
+    },
+    "pick": {
+      "needs": ["pick"],
+      "wants": ["burst", "vision"]
+    },
+    "wombo": {
+      "needs": ["wombo", "engage"],
+      "wants": ["followup", "teamfight"]
+    },
+    "split": {
+      "needs": ["splitpush"],
+      "wants": ["waveclear", "disengage"]
+    },
+    "split_push": {
+      "needs": ["splitpush"],
+      "wants": ["waveclear", "disengage", "duelist", "sidelane"]
+    }
   },
   "ban_models": {
     "robbery_best_player": {

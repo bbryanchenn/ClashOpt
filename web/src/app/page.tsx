@@ -213,11 +213,11 @@ export default function Page() {
               ClashOpt · Draft Intelligence
             </div>
             <h1 className="bg-gradient-to-r from-[#F0E6D2] via-[#C8AA6E] to-[#F0E6D2] bg-clip-text text-4xl font-semibold tracking-tight text-transparent md:text-5xl">
-              Build Winning Drafts with Pro-Level Clarity
+              ClashOpt: A League-Inspired Draft Analysis Tool
             </h1>
             <p className="mt-3 max-w-2xl text-sm leading-6 text-[#C8C3B5]">
               Compare both sides instantly, surface win conditions, and spot
-              counter pressure with a premium League-inspired experience.
+              counter pressure with a specifically trained model designed for Clash drafts.
             </p>
           </div>
 
